@@ -1,4 +1,9 @@
-#Modul 1: Hacken und experimentieren mit Daten
+#Zertifikatskurs Data Librarian 2021/22
 
-- Heinke Schumacher
-- 4 ipynb-Übedateien ins Repo 13.12.2021
+
+
+- TH Köln, ZBIW
+- 2021-11-29 - 2022-08-26
+
+2021-12-14 Heinke Schumacher
+
