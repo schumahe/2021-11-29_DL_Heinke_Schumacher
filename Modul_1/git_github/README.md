@@ -1,4 +1,4 @@
-** Aufgabe 2 - git & GitHub**
+**Aufgabe 2 - git & GitHub**
 
 - Erstellen von git/github-Repositorien
 - Pushen nach github
