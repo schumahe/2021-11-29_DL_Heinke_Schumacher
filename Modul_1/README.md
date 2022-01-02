@@ -1,10 +1,11 @@
-Modul_1
+## Modul 1 - Aufgaben
 
 
-- Aufgabe 1: Texteditor/IDEs
-- Aufgabe 2: git & GitHub
-- Aufgabe 3: Python
-- Aufgabe 4: Shell
+- Aufgabe 1: texteditor_IDEs
+- Aufgabe 2: git_github
+- Aufgabe 3: python
+- Aufgabe 4: shell
+- Übungen
 
 
 2021-12-14 Heinke Schumacher
