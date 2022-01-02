@@ -1,4 +1,4 @@
-## Modul 1 - Aufgaben
+## Modul 1 - Aufgaben & Übungen
 
 
 - Aufgabe 1: texteditor_IDEs
