@@ -1,7 +1,7 @@
 ## Modul 2: Aufgaben & Übungen
 
 
-++Teil 1:++
+**Teil 1:**
 
 - json API bibsonomy.org
 - Anpassung/Aufräumen der json-Daten
