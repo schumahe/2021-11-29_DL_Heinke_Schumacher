@@ -7,4 +7,11 @@
 - Anpassung/Aufräumen der json-Daten
 - Erstellung einer xml-Datei aus den json-Daten mit python
 
-2022-01-24 Heinke Schumacher
+**Teil 2:**
+
+- Installation SOLR
+- Prüfen Testumgebung SOLR
+- Erzeugen eines eigenen Cores
+- Indexierung eigener Daten im Vergleich zur Testumgebung
+
+2022-02-06 Heinke Schumacher
