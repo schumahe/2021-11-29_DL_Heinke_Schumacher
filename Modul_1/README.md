@@ -5,7 +5,6 @@
 - Aufgabe 2: git_github
 - Aufgabe 3: python
 - Aufgabe 4: shell
-- Übungen
 
 
 2021-12-14 Heinke Schumacher
