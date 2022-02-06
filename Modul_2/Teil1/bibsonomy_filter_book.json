@@ -1,0 +1,2146 @@
+[
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/2e35cb5547e626cd8863a069478fca835/knaevelboerrar",
+        "tags": [
+            "music",
+            "mathematics"
+        ],
+        "intraHash": "e35cb5547e626cd8863a069478fca835",
+        "interHash": "fd2340203b87fd2b68777e7a70e810b1",
+        "label": "Musimathics : the mathematical foundations of music",
+        "user": "knaevelboerrar",
+        "description": "Musimathics: The Mathematical Foundations of Music, Volume 1: Amazon.de: Gareth Loy: Fremdsprachige B\u00fccher",
+        "date": "2015-12-22 16:06:54",
+        "changeDate": "2015-12-22 16:06:54",
+        "count": 1,
+        "pub-type": "book",
+        "publisher": "MIT Press",
+        "address": "Cambridge, Mass.; London",
+        "year": "2006",
+        "url": "http://www.amazon.de/Musimathics-Mathematical-Foundations-Music-Volume/dp/0262122820/ref=pd_sim_14_2?ie=UTF8&dpID=41G7IKtZIjL&dpSrc=sims&preST=_AC_UL160_SR113%2C160_&refRID=0FBZ3EKEMPCWGBFGSM5T",
+        "author": [
+            " na"
+        ],
+        "authors": [
+            {
+                "first": "",
+                "last": "na"
+            }
+        ],
+        "abstract": "\"In this volume, Gareth Loy presents the materials of music (notes, intervals, and scales); the physical properties of music (frequency, amplitude, duration, and timbre); the perception of music and sound (how we hear); and music composition. Musimathics is carefully structured so that new topics depend strictly on topics already presented, carrying the reader progressively from basic subjects to more advanced ones. Cross-references point to related topics and an extensive glossary defines commonly-used terms. The book explains the mathematics and physics of music for the reader whose mathematics may not have gone beyond the early undergraduate level. Calling himself \u00e4 composer seduced into mathematics,\" Loy provides answers to foundational questions about the mathematics of music accessibly yet rigorously. The topics are all subjects that contemporary composers, musicians, and musical engineers have found to be important. The examples given are all practical problems in music and audio. The level of scholarship and the pedagogical approach also make Musimathics ideal for classroom use. Additional material can be found at http://www.musimathics.com Publisher description of vol. 1. Volume 2 of Musimathics continues the story of music engineering begun in volume 1, focusing on the digital and computational domain. Loy goes deeper into the mathematics of music and sound, beginning with digital audio, sampling, and binary numbers, as well as complex numbers and how they simplify representation of musical signals. Chapters cover the Fourier transform, convolution, filtering, resonance, the wave equation, acoustical systems, sound synthesis, the short-time Fourier transform, and the wavelet transform. These subjects provide the theoretical underpinnings of today's music technology. The examples given are all practical problems in music and audio Publisher description.",
+        "isbn": "9780262122825 0262122820 9780262122856 0262122855 9780262516563 026251656X",
+        "refid": "60856240",
+        "bibtexKey": "noauthororeditor2006musimathics"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/24d80686d7677a9e063d5f40062e52392/knaevelboerrar",
+        "tags": [
+            "music",
+            "mathematics"
+        ],
+        "intraHash": "4d80686d7677a9e063d5f40062e52392",
+        "interHash": "b74fb5054540c87d67233fbcae068f68",
+        "label": "Mathematics and music",
+        "user": "knaevelboerrar",
+        "description": "Mathematics and Music (Mathematical World): Amazon.de: David Wright: B\u00fccher",
+        "date": "2015-12-22 16:03:21",
+        "changeDate": "2015-12-22 16:03:21",
+        "count": 1,
+        "pub-type": "book",
+        "publisher": "American Mathematical Society",
+        "address": "Providence, R.I.",
+        "year": "2009",
+        "url": "http://www.amazon.de/Mathematics-Music-Mathematical-World-Wright/dp/0821848739/ref=sr_1_1?s=books&ie=UTF8&qid=1450796436&sr=8-1&keywords=9780821848739",
+        "author": [
+            "David Wright"
+        ],
+        "authors": [
+            {
+                "first": "David",
+                "last": "Wright"
+            }
+        ],
+        "abstract": "Many people intuitively sense that there is a connection between mathematics and music. If nothing else, both involve counting. There is, of course, much more to the association. David Wright's book is an investigation of the interrelationships between mathematics and music, reviewing the needed background concepts in each subject as they are encountered. Along the way, readers will augment their understanding of both mathematics and music. The text explores the common foundations of the two subjects, which are developed side by side. Musical and mathematical notions are brought together, such as scales and modular arithmetic, intervals and logarithms, tone and trigonometry, and timbre and harmonic analysis. When possible, discussions of musical and mathematical notions are directly interwoven. Occasionally the discourse dwells for a while on one subject and not the other, but eventually the connection is established, making this an integrative treatment of the two subjects. The book is a text for a freshman level college course suitable for musically inclined or mathematically inclined students, with the intent of breaking down any apprehension that either group might have for the other subject. Exercises are given at the end of each chapter. The mathematical prerequisites are a high-school level familiarity with algebra, trigonometry, functions, and graphs. Musically, the student should have had some exposure to musical staffs, standard clefs, and key signatures, though all of these are explained in the text Publisher description.",
+        "isbn": "9780821848739 0821848739",
+        "refid": "318191268",
+        "bibtexKey": "wright2009mathematics"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/2476dc161a46edb04f76d3a7310b3c111/bliek",
+        "tags": [
+            "imported"
+        ],
+        "intraHash": "476dc161a46edb04f76d3a7310b3c111",
+        "interHash": "1526c09f83f05c51364cf9464a2222ea",
+        "label": "Perspectives on American music 1900-1950",
+        "user": "bliek",
+        "description": "",
+        "date": "2010-01-27 22:12:50",
+        "changeDate": "2010-01-27 22:12:56",
+        "count": 1,
+        "pub-type": "book",
+        "series": "Essays in American music; 2107",
+        "publisher": "General Music Publishing Co.",
+        "address": "New York, NY",
+        "year": "2000",
+        "url": "",
+        "editor": [
+            "Michael Saffle"
+        ],
+        "editors": [
+            {
+                "first": "Michael",
+                "last": "Saffle"
+            }
+        ],
+        "note": "Examines musical life in the United States during the first half of the 20th-c., with an emphasis on the rise and triumph of popular forms such as jazz, swing, and blues, and the importance of Ives, Cage, and Copland, among others, to art music. American contributions to music technology and dissemination, and the role of these forms in extending the audience for music are also discussed. The following contributions are cited separately in RILM: Jean A. BOYD, \"Western swing: Working-class southwestern jazz of the 1930s and 1940s\" (RILM 2000-32868); Alfred W. COCHRAN, \"Cinema music of distinction: Virgil Thomson, Aaron Copland, and Gail Kubik\" (RILM 2000-32873); Raymond DESSY, \"Mapping the blues genes: Technological, economic, and social strands--A spectral analysis\" (RILM 2000-32813); Mark DEVOTO, \"Melville Smith: Organist, educator, early music pioneer, and American composer\" (RILM 2000-32871); Kent A. HOLLIDAY, \"Some American firms and their contributions to the development of the reproducing piano\" (RILM 2000-32814); Timothy Michael KALIL, \"Thomas A. Dorsey and the development and diffusion of traditional Black gospel\" (RILM 2000-32816); Ellen KNIGHT, \"Boston's \"French Connection\" at the turn of the twentieth century\" (RILM 2000-32811); Donald C. MEYER, \"Toscanini and the NBC Symphony Orchestra: High, middle, and low culture\" (RILM 2000-32872); Leta E. MILLER, \"The art of noise: John Cage, Lou Harrison, and the West coast percussion ensemble\" (RILM 2000-32869); Karen REGE, \"Ticklers' secrets: Ragtime performance practices, 1900-1920--A bibliographic essay\" (RILM 2000-32812); Marc RICE, \"Dances, frolics, and orchestra wars: The territory bands and ballrooms of Kansas City, Missouri, 1925-1935\" (RILM 2000-32815); John C. TIBBETTS, \"The new Tin Pan Alley: 1940s Hollywood looks at American popular songwriters\" (RILM 2000-32874).",
+        "abstract": "Examines musical life in the United States during the first half of the 20th-c., with an emphasis on the rise and triumph of popular forms such as jazz, swing, and blues, and the importance of Ives, Cage, and Copland, among others, to art music. American contributions to music technology and dissemination, and the role of these forms in extending the audience for music are also discussed. The following contributions are cited separately in RILM: Jean A. BOYD, \"Western swing: Working-class southwestern jazz of the 1930s and 1940s\" (RILM 2000-32868); Alfred W. COCHRAN, \"Cinema music of distinction: Virgil Thomson, Aaron Copland, and Gail Kubik\" (RILM 2000-32873); Raymond DESSY, \"Mapping the blues genes: Technological, economic, and social strands--A spectral analysis\" (RILM 2000-32813); Mark DEVOTO, \"Melville Smith: Organist, educator, early music pioneer, and American composer\" (RILM 2000-32871); Kent A. HOLLIDAY, \"Some American firms and their contributions to the development of the reproducing piano\" (RILM 2000-32814); Timothy Michael KALIL, \"Thomas A. Dorsey and the development and diffusion of traditional Black gospel\" (RILM 2000-32816); Ellen KNIGHT, \"Boston's \"French Connection\" at the turn of the twentieth century\" (RILM 2000-32811); Donald C. MEYER, \"Toscanini and the NBC Symphony Orchestra: High, middle, and low culture\" (RILM 2000-32872); Leta E. MILLER, \"The art of noise: John Cage, Lou Harrison, and the West coast percussion ensemble\" (RILM 2000-32869); Karen REGE, \"Ticklers' secrets: Ragtime performance practices, 1900-1920--A bibliographic essay\" (RILM 2000-32812); Marc RICE, \"Dances, frolics, and orchestra wars: The territory bands and ballrooms of Kansas City, Missouri, 1925-1935\" (RILM 2000-32815); John C. TIBBETTS, \"The new Tin Pan Alley: 1940s Hollywood looks at American popular songwriters\" (RILM 2000-32874).",
+        "bibtexKey": "saffle_perspectivesamerican_2000"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/223dea2e46ea772c30fdd1915f46fd7c8/knaevelboerrar",
+        "tags": [
+            "music",
+            "mathematics"
+        ],
+        "intraHash": "23dea2e46ea772c30fdd1915f46fd7c8",
+        "interHash": "ebdcf90f3a2c2f9686b43a21ad665d79",
+        "label": "Mathematical themes and variations : exploring mathematics in music",
+        "user": "knaevelboerrar",
+        "description": "The Math Behind the Music with CD-ROM (Outlooks): Amazon.de: Leon Harkleroad: Fremdsprachige B\u00fccher",
+        "date": "2015-12-22 16:05:31",
+        "changeDate": "2015-12-22 16:05:31",
+        "count": 1,
+        "pub-type": "book",
+        "publisher": "Cambridge University Press",
+        "address": "Cambridge",
+        "year": "2003",
+        "url": "http://www.amazon.de/Math-Behind-Music-CD-ROM-Outlooks/dp/0521009359/ref=pd_sim_14_1?ie=UTF8&dpID=51ogyx5LOcL&dpSrc=sims&preST=_AC_UL160_SR106%2C160_&refRID=0FBZ3EKEMPCWGBFGSM5T",
+        "author": [
+            " na"
+        ],
+        "authors": [
+            {
+                "first": "",
+                "last": "na"
+            }
+        ],
+        "isbn": "0521810957 9780521810951 0521009359 9780521009355",
+        "refid": "52696358",
+        "bibtexKey": "noauthororeditor2003mathematical"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/2c37e6c646f6df6fd2722510c79814e96/michael.sherbon",
+        "tags": [
+            "ancient",
+            "sound",
+            "pythagoras",
+            "mythology",
+            "history",
+            "philosophy",
+            "literature",
+            "classic",
+            "science",
+            "music",
+            "of",
+            "amazon",
+            "and",
+            "greek"
+        ],
+        "intraHash": "c37e6c646f6df6fd2722510c79814e96",
+        "interHash": "99bd8f39728bb0968d1d87ff6cc2d8c7",
+        "label": "The Music of Pythagoras: How an Ancient Brotherhood Cracked the Code of the Universe and Lit the Path from Antiquity to Oute",
+        "user": "michael.sherbon",
+        "description": "Amazon.com: The Music of Pythagoras: How an Ancient Brotherhood Cracked the Code of the Universe and Lit the Path from Antiquity to Oute: Kitty Ferguson: Books",
+        "date": "2008-09-08 21:32:07",
+        "changeDate": "2008-09-08 21:32:07",
+        "count": 1,
+        "pub-type": "book",
+        "publisher": "Walker & Company",
+        "year": "2008",
+        "url": "http://www.amazon.com/Music-Pythagoras-Brotherhood-Universe-Antiquity/dp/0802716318%3FSubscriptionId%3D13CT5CVB80YFWJEPWS02%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0802716318",
+        "author": [
+            "Kitty Ferguson"
+        ],
+        "authors": [
+            {
+                "first": "Kitty",
+                "last": "Ferguson"
+            }
+        ],
+        "ean": "9780802716316",
+        "asin": "0802716318",
+        "isbn": "0802716318",
+        "dewey": "182.2",
+        "bibtexKey": "0802716318"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/2faaf66ea454bb63026667efa25b123dc/dblp",
+        "tags": [
+            "dblp"
+        ],
+        "intraHash": "faaf66ea454bb63026667efa25b123dc",
+        "interHash": "dc91fa338f6cfcc8794e08da9c255543",
+        "label": "Ubiquitous Music",
+        "user": "dblp",
+        "description": "",
+        "date": "2017-05-16 00:00:00",
+        "changeDate": "2019-10-11 11:40:14",
+        "count": 1,
+        "pub-type": "book",
+        "booktitle": "Ubiquitous Music",
+        "series": "Computational Music Science",
+        "publisher": "Springer",
+        "year": "2014",
+        "url": "http://dblp.uni-trier.de/db/series/music/um2014.html",
+        "editor": [
+            "Dami\u00e1n Keller",
+            "Victor Lazzarini",
+            "Marcelo Soares Pimenta"
+        ],
+        "editors": [
+            {
+                "first": "Dami\u00e1n",
+                "last": "Keller"
+            },
+            {
+                "first": "Victor",
+                "last": "Lazzarini"
+            },
+            {
+                "first": "Marcelo Soares",
+                "last": "Pimenta"
+            }
+        ],
+        "ee": "https://doi.org/10.1007/978-3-319-11152-0",
+        "isbn": "978-3-319-11151-3",
+        "bibtexKey": "series/music/2014um"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/2a93b46e3f4d166627214ef4c8f76b8f8/yevb0",
+        "tags": [
+            "music,gamelan,music,perception,pitch,scale,tonality",
+            "Indian"
+        ],
+        "intraHash": "a93b46e3f4d166627214ef4c8f76b8f8",
+        "interHash": "e441a591e83135a40552552a9a73d8fb",
+        "label": "Cognitive foundations of musical pitch",
+        "user": "yevb0",
+        "description": "",
+        "date": "2011-03-27 17:20:41",
+        "changeDate": "2011-03-27 17:20:57",
+        "count": 1,
+        "pub-type": "book",
+        "booktitle": "Cognitive foundations of musical pitch",
+        "publisher": "Oxford University Press",
+        "address": "New York",
+        "year": "1990",
+        "url": "",
+        "author": [
+            "Carol L Krumhansl"
+        ],
+        "authors": [
+            {
+                "first": "Carol L",
+                "last": "Krumhansl"
+            }
+        ],
+        "file": "Krumhansl_1990_Cognitive foundations of musical pitch.zip:Krumhansl_1990_Cognitive foundations of musical pitch.zip:ZIP",
+        "mendeley-tags": "Indian music,gamelan,music,perception,pitch,scale,tonality",
+        "bibtexKey": "Krumhansl1990"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/2f98f3b44632975319129cb3ffffb4db4/bliek",
+        "tags": [
+            "imported"
+        ],
+        "intraHash": "f98f3b44632975319129cb3ffffb4db4",
+        "interHash": "bd31c0820e059fdac72a475128d45751",
+        "label": "Expression in pop-rock music: A collection of critical and analytical essays",
+        "user": "bliek",
+        "description": "",
+        "date": "2010-01-27 22:12:50",
+        "changeDate": "2010-01-27 22:12:58",
+        "count": 1,
+        "pub-type": "book",
+        "publisher": "General Music Publishing Co.",
+        "address": "New York, NY",
+        "year": "2000",
+        "url": "",
+        "author": [
+            "Walter ed Everett"
+        ],
+        "authors": [
+            {
+                "first": "Walter",
+                "last": "ed Everett"
+            }
+        ],
+        "abstract": "A collection of essays presents a wide range of scholarly approaches to understanding artistic expression in rock music, with some taking a primarily analytical approach to the craft of composition, whereas others are interested in general stylistic concerns, and others still are focused on the listener's role in the process. The following contributions are cited separately in RILM: Jonathan W. BERNARD, \"The musical world(s?) of Frank Zappa: Some observations of his \"crossover\" pieces\" (2000-33815); James BORDERS, \"Frank Zappa's \"The black page\"--A case of musical \"conceptual continuity\"\" (2000-33814); Lori BURNS, \"Harmonic and voice-leading strategies in Tori Amos's \"Crucify\"\" (2000-33816); John COVACH, \"Jazz-rock? Rock-jazz? Stylistic crossover in late-1970s American progressive rock\" (2000-33813); Walter EVERETT, \"Confessions from Blueberry Hell, or, pitch can be a sticky substance\" (2000-33818); Susan FAST, \"Music, contexts, and meaning in U2\" (2000-33810); Ellie M. HISAMA, \"From \"L'\u00c9tranger\" to \"Killing an Arab\": Representing the other in a Cure song\" (2000-33811); Nadine HUBBS, \"The imagination of pop-rock criticism\" (2000-33809); Timothy KOOZIN, \"Fumbling towards ectasy: Voice-leading, tonal structure, and the theme of self-realization in the music of Sarah McLachlan\" (2000-33817); Mark S. SPICER, \"Large-scale strategy and compositional design in the early music of Genesis\" (2000-33812).",
+        "isbn": "0815331606",
+        "shorttitle": "Expression in pop-rock music",
+        "bibtexKey": "everett_expression_2000"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/27fa19545956a672507f147a39677bd2a/yevb0",
+        "tags": [
+            "harmony,language,music,rhythm,syntax"
+        ],
+        "intraHash": "7fa19545956a672507f147a39677bd2a",
+        "interHash": "1921dae625db785143d493cf15e46070",
+        "label": "A generative theory of tonal music",
+        "user": "yevb0",
+        "description": "",
+        "date": "2011-03-27 17:20:41",
+        "changeDate": "2011-03-27 17:20:58",
+        "count": 3,
+        "pub-type": "book",
+        "booktitle": "A generative theory of tonal music",
+        "publisher": "The MIT Press",
+        "address": "Cambridge. MA",
+        "year": "1983",
+        "url": "",
+        "author": [
+            "Fred Lerdahl",
+            "Ray Jackendoff"
+        ],
+        "authors": [
+            {
+                "first": "Fred",
+                "last": "Lerdahl"
+            },
+            {
+                "first": "Ray",
+                "last": "Jackendoff"
+            }
+        ],
+        "file": "Lerdahl, Jackendoff_1983_A generative theory of tonal music.zip:Lerdahl, Jackendoff_1983_A generative theory of tonal music.zip:ZIP",
+        "isbn": "0262120941",
+        "mendeley-tags": "harmony,language,music,rhythm,syntax",
+        "bibtexKey": "Lerdahl1983"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/295184acb96fbda090c654f1aab19df90/gdmcbain",
+        "tags": [
+            "97m80-arts-music-language-architecture",
+            "01a60-20th-century"
+        ],
+        "intraHash": "95184acb96fbda090c654f1aab19df90",
+        "interHash": "f35618de3394ff74bd203e0150e491b7",
+        "label": "Australian music and modernism, 1960-1975",
+        "user": "gdmcbain",
+        "description": "Australian music and modernism, 1960-1975 (Livre, 2019) [WorldCat.org]",
+        "date": "2019-12-21 02:56:39",
+        "changeDate": "2019-12-21 02:56:39",
+        "count": 1,
+        "pub-type": "book",
+        "year": "2019",
+        "url": "https://www.worldcat.org/title/australian-music-and-modernism-1960-1975/oclc/1128850252&referer=brief_results",
+        "author": [
+            "Michael Hooper"
+        ],
+        "authors": [
+            {
+                "first": "Michael",
+                "last": "Hooper"
+            }
+        ],
+        "isbn": "9781501348181 1501348183",
+        "refid": "1128850252",
+        "bibtexKey": "hooper2019australian"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/249143afd75baf525e30c3a154ede2965/iglesia",
+        "tags": [
+            "music",
+            "art",
+            "toread",
+            "fernleihe",
+            "priorit\u00e4t:2",
+            "presence"
+        ],
+        "intraHash": "49143afd75baf525e30c3a154ede2965",
+        "interHash": "6870d8f37be87c5a8ba3d41019b79712",
+        "label": "Design for music",
+        "user": "iglesia",
+        "description": "",
+        "date": "2011-11-07 16:52:38",
+        "changeDate": "2011-11-07 16:52:38",
+        "count": 1,
+        "pub-type": "book",
+        "series": "Pictographic index ; 2",
+        "publisher": "Pepin Press",
+        "address": "Amsterdam",
+        "year": "2011",
+        "url": "",
+        "author": [
+            "Hans Lijklema"
+        ],
+        "authors": [
+            {
+                "first": "Hans",
+                "last": "Lijklema"
+            }
+        ],
+        "volume": "2",
+        "pages": "320 S.",
+        "note": "CD-Beil. u.d.T.: Music by designers",
+        "bibtexKey": "lijklema2011"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/275caaf2a8880bb8726ffd5f77a7fda95/keinstein",
+        "tags": [
+            "Informatik",
+            "Musiktheorie",
+            "Musik"
+        ],
+        "intraHash": "75caaf2a8880bb8726ffd5f77a7fda95",
+        "interHash": "b99c51b82528ba3db10d35678b0af3c8",
+        "label": "The Usability of Music Theory Software: The Analysis of Twelve-Tone Music as a Case Study",
+        "user": "keinstein",
+        "description": "",
+        "date": "2009",
+        "changeDate": "2013-01-20 19:18:18",
+        "count": 2,
+        "pub-type": "book",
+        "journal": "Computer Music Modeling and Retrieval. Sense of Sounds",
+        "booktitle": "The Usability of Music Theory Software: The Analysis of Twelve-Tone Music as a Case Study",
+        "series": "Lecture Notes in Computer Science",
+        "publisher": "Springer",
+        "address": "Berlin, Heidelberg",
+        "year": "2009",
+        "url": "",
+        "editor": [
+            "Richard Kronland-Martinet",
+            "S\u00f8lvi Ystad",
+            "Kristoffer Jensen"
+        ],
+        "editors": [
+            {
+                "first": "Richard",
+                "last": "Kronland-Martinet"
+            },
+            {
+                "first": "S\u00f8lvi",
+                "last": "Ystad"
+            },
+            {
+                "first": "Kristoffer",
+                "last": "Jensen"
+            }
+        ],
+        "volume": "4969",
+        "timestamp": "2012-02-16 05:14:30",
+        "date-added": "2009-11-11 21:49:24 +0100",
+        "username": "keinstein",
+        "date-modified": "2009-11-11 21:51:54 +0100",
+        "intrahash": "75caaf2a8880bb8726ffd5f77a7fda95",
+        "issn": "1611-3349",
+        "bdsk-url-1": "http://dx.doi.org/10.1007/978-3-540-85035-9",
+        "verfuegbar": "Springerlink",
+        "interhash": "b99c51b82528ba3db10d35678b0af3c8",
+        "groups": "public",
+        "doi": "10.1007/978-3-540-85035-9",
+        "bibtexKey": "LNCS2969"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/275caaf2a8880bb8726ffd5f77a7fda95/ks-plugin-devel",
+        "tags": [
+            "Informatik",
+            "Musiktheorie",
+            "Musik"
+        ],
+        "intraHash": "75caaf2a8880bb8726ffd5f77a7fda95",
+        "interHash": "b99c51b82528ba3db10d35678b0af3c8",
+        "label": "The Usability of Music Theory Software: The Analysis of Twelve-Tone Music as a Case Study",
+        "user": "ks-plugin-devel",
+        "description": "",
+        "date": "2009",
+        "changeDate": "2013-02-02 14:41:41",
+        "count": 2,
+        "pub-type": "book",
+        "journal": "Computer Music Modeling and Retrieval. Sense of Sounds",
+        "booktitle": "The Usability of Music Theory Software: The Analysis of Twelve-Tone Music as a Case Study",
+        "series": "Lecture Notes in Computer Science",
+        "publisher": "Springer",
+        "address": "Berlin, Heidelberg",
+        "year": "2009",
+        "url": "",
+        "editor": [
+            "Richard Kronland-Martinet",
+            "S\u00f8lvi Ystad",
+            "Kristoffer Jensen"
+        ],
+        "editors": [
+            {
+                "first": "Richard",
+                "last": "Kronland-Martinet"
+            },
+            {
+                "first": "S\u00f8lvi",
+                "last": "Ystad"
+            },
+            {
+                "first": "Kristoffer",
+                "last": "Jensen"
+            }
+        ],
+        "volume": "4969",
+        "timestamp": "2012-02-16 05:14:30",
+        "date-added": "2009-11-11 21:49:24 +0100",
+        "username": "keinstein",
+        "date-modified": "2009-11-11 21:51:54 +0100",
+        "intrahash": "75caaf2a8880bb8726ffd5f77a7fda95",
+        "issn": "1611-3349",
+        "bdsk-url-1": "http://dx.doi.org/10.1007/978-3-540-85035-9",
+        "verfuegbar": "Springerlink",
+        "interhash": "b99c51b82528ba3db10d35678b0af3c8",
+        "groups": "public",
+        "doi": "10.1007/978-3-540-85035-9",
+        "bibtexKey": "LNCS2969"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/25acf7485f81174a7490940a72a951cbe/alexarje",
+        "tags": [
+            "Embodied",
+            "Music",
+            "Cognition"
+        ],
+        "intraHash": "5acf7485f81174a7490940a72a951cbe",
+        "interHash": "8efd684c3d0d107b4367543f72fd03a4",
+        "label": "Embodied Music Cognition and Mediation Technology",
+        "user": "alexarje",
+        "description": "",
+        "date": "2016-02-26 20:58:13",
+        "changeDate": "2016-02-26 20:58:13",
+        "count": 2,
+        "pub-type": "book",
+        "publisher": "MIT press Cambridge, Massachusetts",
+        "year": "2007",
+        "url": "",
+        "author": [
+            "Marc Leman"
+        ],
+        "authors": [
+            {
+                "first": "Marc",
+                "last": "Leman"
+            }
+        ],
+        "mendeley-tags": "Embodied Music Cognition",
+        "bibtexKey": "Leman:2007"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/21d12e121e43f0f32202ab3710d17eeb1/mandrean",
+        "tags": [
+            "listening",
+            "ECLARKE",
+            "musical-meaning"
+        ],
+        "intraHash": "1d12e121e43f0f32202ab3710d17eeb1",
+        "interHash": "7e025634e46312fad70dcaa23303cf08",
+        "label": "Ways of listening : an ecological approach to the perception of musical meaning",
+        "user": "mandrean",
+        "description": "",
+        "date": "2015-12-20 18:20:37",
+        "changeDate": "2015-12-22 18:31:28",
+        "count": 2,
+        "pub-type": "book",
+        "publisher": "Oxford University Press",
+        "address": "Oxford; New York",
+        "year": "2005",
+        "url": "http://www.worldcat.org/search?qt=worldcat_org_all&q=9780195151947",
+        "author": [
+            "Eric Clarke"
+        ],
+        "authors": [
+            {
+                "first": "Eric",
+                "last": "Clarke"
+            }
+        ],
+        "abstract": "In Ways of Listening, musicologist Eric Clarke explores musical meaning, music's critical function in human lives, and the relationship between listening and musical material. Clarke outlines an \"ecological approach\" to understanding the perception of music, arguing that the way we hear and understand music is not simply a function of our brain structure or of the musical \"codes\" given to us by culture, but must be considered within the physical and social contexts of listening.",
+        "isbn": "0195151941 9780195151947",
+        "refid": "57670222",
+        "bibtexKey": "noauthororeditor2005listening"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/22e93b57ae1c42bc26b3fad2b3c775001/yevb0",
+        "tags": [
+            "imported"
+        ],
+        "intraHash": "2e93b57ae1c42bc26b3fad2b3c775001",
+        "interHash": "ffdf0ee2e71f97b0088232265a421194",
+        "label": "Musicophilia: Tales of music and the brain",
+        "user": "yevb0",
+        "description": "",
+        "date": "2011-03-27 17:20:41",
+        "changeDate": "2011-03-27 17:21:05",
+        "count": 1,
+        "pub-type": "book",
+        "booktitle": "Musicophilia: Tales of music and the brain",
+        "publisher": "Vintage Books",
+        "address": "New York",
+        "year": "2008",
+        "url": "",
+        "author": [
+            "Oliver Sacks"
+        ],
+        "authors": [
+            {
+                "first": "Oliver",
+                "last": "Sacks"
+            }
+        ],
+        "file": ":Sacks_2008_Musicophilia Tales of music and the brain.zip:ZIP",
+        "bibtexKey": "Sacks2008"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/2f81fada852f8f2a780c62388130fc554/bliek",
+        "tags": [
+            "imported"
+        ],
+        "intraHash": "f81fada852f8f2a780c62388130fc554",
+        "interHash": "c7b02f8c8f76574181df4f8bbe3b922f",
+        "label": "The Cambridge companion to blues and gospel music",
+        "user": "bliek",
+        "description": "",
+        "date": "2010-01-27 22:12:50",
+        "changeDate": "2010-01-27 22:12:52",
+        "count": 1,
+        "pub-type": "book",
+        "series": "Cambridge companions to music",
+        "publisher": "Cambridge University Press",
+        "address": "Cambridge, England",
+        "year": "2002",
+        "url": "",
+        "editor": [
+            "Allan F. ed Moore"
+        ],
+        "editors": [
+            {
+                "first": "Allan F.",
+                "last": "ed Moore"
+            }
+        ],
+        "abstract": "The following contributions are cited separately in RILM: Matt BACKER, \"The guitar\" (2002-8270); Graeme M. BOONE, \"Twelve key recordings\" (2002-8267); Don CUSIC, \"The development of gospel music\" (2002-8266); David EVANS, \"The development of the blues\" (2002-8265); Dave HEADLAM, \u00c4ppropriations of blues and gospel in popular music\" (2002-8273); Barb JUNGR, \"Vocal expression in blues and gospel\" (2002-8269); Allan F. MOORE, \"Surveying the field: Our knowledge of blues and gospel music\" (2002-8262); Guido van RIJN, \"Imagery in the lyrics: An initial approach\" (2002-8272); Jeff Todd TITON, \"Labels: Identifying categories of blues and gospel\" (2002-8264); Steve TRACY, \"Black twice: Performance conditions for blues and gospel artists\" (2002-8268); Adrian YORK, \"Keyboard techniques\" (2002-8271).",
+        "bibtexKey": "moore_cambridge_2002"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/25365c4635774a126f310b84d080aaf2c/ks-plugin-devel",
+        "tags": [
+            "imported"
+        ],
+        "intraHash": "5365c4635774a126f310b84d080aaf2c",
+        "interHash": "db166fac1a00052a5012f6b726595abe",
+        "label": "Mathematics and music : a Diderot Mathematical Forum",
+        "user": "ks-plugin-devel",
+        "description": "Mathematics and Music",
+        "date": "2013-02-02 14:42:57",
+        "changeDate": "2013-02-02 14:42:57",
+        "count": 2,
+        "pub-type": "book",
+        "booktitle": "Mathematics and music : a Diderot Mathematical Forum",
+        "publisher": "Springer",
+        "address": "Berlin; New York",
+        "year": "2002",
+        "url": "http://www.worldcat.org/search?qt=worldcat_org_all&q=9783540437277",
+        "editor": [
+            "Gerard Assayag",
+            "Feichtinger Hans G.",
+            "Jos\u00e9 Francisco Rodrigues"
+        ],
+        "editors": [
+            {
+                "first": "Gerard",
+                "last": "Assayag"
+            },
+            {
+                "first": "Feichtinger Hans",
+                "last": "G."
+            },
+            {
+                "first": "Jos\u00e9 Francisco",
+                "last": "Rodrigues"
+            }
+        ],
+        "pages": "288",
+        "timestamp": "2010-03-22 02:50:39",
+        "username": "keinstein",
+        "intrahash": "5365c4635774a126f310b84d080aaf2c",
+        "isbn": "3540437274 9783540437277",
+        "interhash": "db166fac1a00052a5012f6b726595abe",
+        "refid": "49726326",
+        "groups": "public",
+        "bibtexKey": "2002mathematics"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/25365c4635774a126f310b84d080aaf2c/keinstein",
+        "tags": [
+            "imported"
+        ],
+        "intraHash": "5365c4635774a126f310b84d080aaf2c",
+        "interHash": "db166fac1a00052a5012f6b726595abe",
+        "label": "Mathematics and music : a Diderot Mathematical Forum",
+        "user": "keinstein",
+        "description": "Mathematics and Music",
+        "date": "2010-03-22 14:50:39",
+        "changeDate": "2013-01-20 19:16:55",
+        "count": 2,
+        "pub-type": "book",
+        "booktitle": "Mathematics and music : a Diderot Mathematical Forum",
+        "publisher": "Springer",
+        "address": "Berlin; New York",
+        "year": "2002",
+        "url": "http://www.worldcat.org/search?qt=worldcat_org_all&q=9783540437277",
+        "editor": [
+            "Gerard Assayag",
+            "Feichtinger Hans G.",
+            "Jos\u00e9 Francisco Rodrigues"
+        ],
+        "editors": [
+            {
+                "first": "Gerard",
+                "last": "Assayag"
+            },
+            {
+                "first": "Feichtinger Hans",
+                "last": "G."
+            },
+            {
+                "first": "Jos\u00e9 Francisco",
+                "last": "Rodrigues"
+            }
+        ],
+        "pages": "288",
+        "timestamp": "2010-03-22 02:50:39",
+        "username": "keinstein",
+        "intrahash": "5365c4635774a126f310b84d080aaf2c",
+        "isbn": "3540437274 9783540437277",
+        "interhash": "db166fac1a00052a5012f6b726595abe",
+        "refid": "49726326",
+        "groups": "public",
+        "bibtexKey": "2002mathematics"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/2418c9b6b6cd72c96f109ac5ab7e15598/ichun",
+        "tags": [
+            "music",
+            "computer"
+        ],
+        "intraHash": "418c9b6b6cd72c96f109ac5ab7e15598",
+        "interHash": "8c619a761078dbb268766aef860f64c2",
+        "label": "The Music Machine",
+        "user": "ichun",
+        "description": "",
+        "date": "2007-01-16 01:47:06",
+        "changeDate": "2007-01-16 01:47:06",
+        "count": 1,
+        "pub-type": "book",
+        "year": "1989",
+        "url": "",
+        "author": [
+            "Curtis Road"
+        ],
+        "authors": [
+            {
+                "first": "Curtis",
+                "last": "Road"
+            }
+        ],
+        "bibtexKey": "musicmachine"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/2dae7ad94763184a8646f52decf90aa24/wiljami74",
+        "tags": [
+            "expectation",
+            "musical_meaning",
+            "suspension"
+        ],
+        "intraHash": "dae7ad94763184a8646f52decf90aa24",
+        "interHash": "eb6c0d8e547e47ae2e754f0b3750c91c",
+        "label": "Emotion and Meaning in Music",
+        "user": "wiljami74",
+        "description": "emotion and meaning in music (expectations, suspension)",
+        "date": "2007-06-05 10:03:01",
+        "changeDate": "2007-06-05 10:03:01",
+        "count": 1,
+        "pub-type": "book",
+        "publisher": "The University of Chicago Press",
+        "address": "Chicago",
+        "year": "1956",
+        "url": "",
+        "author": [
+            "Leonard B. Meyer"
+        ],
+        "authors": [
+            {
+                "first": "Leonard B.",
+                "last": "Meyer"
+            }
+        ],
+        "bibtexKey": "Mey56"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/2b2fb0e41911aa28eb1db00ce5ccc0725/bliek",
+        "tags": [
+            "imported"
+        ],
+        "intraHash": "b2fb0e41911aa28eb1db00ce5ccc0725",
+        "interHash": "ccdcdea66055bb893cafdb845e91fba3",
+        "label": "More than dancing : essays on Afro-American music and musicians",
+        "user": "bliek",
+        "description": "",
+        "date": "2010-01-27 22:12:50",
+        "changeDate": "2010-01-27 22:12:58",
+        "count": 1,
+        "pub-type": "book",
+        "publisher": "Greenwood Press",
+        "address": "Westport, Conn",
+        "year": "1985",
+        "url": "",
+        "author": [
+            "Irene V. Jackson",
+            "Howard University. Center for Ethnic Music"
+        ],
+        "authors": [
+            {
+                "first": "Irene V.",
+                "last": "Jackson"
+            },
+            {
+                "first": "Howard University. Center",
+                "last": "for Ethnic Music"
+            }
+        ],
+        "pages": "281",
+        "note": "Bibliography note: Includes music, bibliographies, a discography, and index.",
+        "abstract": "Loretta Burns, \"The structure of blues lyrics\"",
+        "isbn": "0313245541 (lib. bdg.)",
+        "bibtexKey": "jackson_more_1985"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/29fce6d947ce0e74395c68b78687a6190/yevb0",
+        "tags": [
+            "imported"
+        ],
+        "intraHash": "9fce6d947ce0e74395c68b78687a6190",
+        "interHash": "9f57c5f50f5437fde5211c5ce86d1bd0",
+        "label": "Music, thought and feeling: Understanding the psychology of music",
+        "user": "yevb0",
+        "description": "",
+        "date": "2011-03-27 17:20:41",
+        "changeDate": "2011-03-27 17:21:11",
+        "count": 1,
+        "pub-type": "book",
+        "booktitle": "Music, thought and feeling: Understanding the psychology of music",
+        "publisher": "Oxford University Press",
+        "address": "New York",
+        "year": "2009",
+        "url": "",
+        "author": [
+            "William Forde Thompson"
+        ],
+        "authors": [
+            {
+                "first": "William Forde",
+                "last": "Thompson"
+            }
+        ],
+        "file": ":Thompson_2009_Music, thought and feeling Understanding the psychology of music.zip:ZIP",
+        "bibtexKey": "Thompson2009"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/2b8420d6996fe31ade053168ffceb8023/ks-plugin-devel",
+        "tags": [
+            "Mathematik",
+            "Musiktheorie",
+            "MaMu",
+            "Musik"
+        ],
+        "intraHash": "b8420d6996fe31ade053168ffceb8023",
+        "interHash": "8aca0ad80027e93e4ac1e8f390439d38",
+        "label": "Generalized Musical Intervals and Transformations",
+        "user": "ks-plugin-devel",
+        "description": "",
+        "date": "2013-02-02 14:42:54",
+        "changeDate": "2013-02-02 14:42:54",
+        "count": 3,
+        "pub-type": "book",
+        "publisher": "Oxford University Press",
+        "address": "New York",
+        "year": "2007",
+        "url": "http://www.ingentaconnect.com/content/oso/5481464/2007/00000001/00000001/art00000",
+        "author": [
+            "David Lewin"
+        ],
+        "authors": [
+            {
+                "first": "David",
+                "last": "Lewin"
+            }
+        ],
+        "pages": "i-258(259)",
+        "abstract": "This book is recognized as the seminal work paving the way for current studies in mathematical and systematic approaches to music analysis. The author, one of the 20th century's most prominent figures in music theory, pushes the boundaries of the study of pitch-structure beyond its conception as a static system for classifying and inter-relating chords and sets. Known by most music theorists as &#8220;GMIT&#8221;, the book is by far the most significant contribution to the field of systematic music theory in the last half-century, generating the framework for the &#8220;transformational theory&#8221; movement. Appearing almost twenty years after GMIT's initial publication, this Oxford University Press edition features a previously unpublished preface by the author, as well as a foreword by Edward Gollin contextualizing the work's significance for the current field of music theory.",
+        "date-added": "2011-04-01 19:08:14 +0200",
+        "timestamp": "2010-09-14 11:15:54",
+        "date-modified": "2011-04-01 19:15:26 +0200",
+        "username": "keinstein",
+        "intrahash": "b8420d6996fe31ade053168ffceb8023",
+        "bdsk-url-1": "http://www.netlibrary.com/urlapi.asp?action=summary&v=1&bookid=167846",
+        "bdsk-url-2": "http://www.oxfordscholarship.com/oso/public/content/music/9780195317138/toc.html",
+        "bdsk-url-3": "http://www.ingentaconnect.com/content/oso/5481464/2007/00000001/00000001/art00000",
+        "interhash": "8aca0ad80027e93e4ac1e8f390439d38",
+        "isbn": "9780199717842 0199717842",
+        "refid": "219722433",
+        "doi": "10.1093/acprof:oso/9780195317138.001.0001",
+        "groups": "public",
+        "bibtexKey": "davi2007generalized"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/241bea8ee1d988ae9ad52254d2969e73e/dblp",
+        "tags": [
+            "dblp"
+        ],
+        "intraHash": "41bea8ee1d988ae9ad52254d2969e73e",
+        "interHash": "6cd949618e1f94f8c0d1a9ed4f285d3e",
+        "label": "Electronic Music.",
+        "user": "dblp",
+        "description": "",
+        "date": "2013-08-20 00:00:00",
+        "changeDate": "2013-08-21 11:35:16",
+        "count": 1,
+        "pub-type": "book",
+        "series": "Cambridge Introductions to Music",
+        "publisher": "Cambridge University Press",
+        "year": "2013",
+        "url": "",
+        "author": [
+            "Nick Collins",
+            "Margaret Schedel",
+            "Scott Wilson"
+        ],
+        "authors": [
+            {
+                "first": "Nick",
+                "last": "Collins"
+            },
+            {
+                "first": "Margaret",
+                "last": "Schedel"
+            },
+            {
+                "first": "Scott",
+                "last": "Wilson"
+            }
+        ],
+        "pages": "I-XI, 1-227",
+        "ee": "http://www.cambridge.org/de/academic/subjects/music/twentieth-century-and-contemporary-music/electronic-music",
+        "isbn": "978-1-107-64817-3",
+        "bibtexKey": "books/daglib/0031453"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/2b8420d6996fe31ade053168ffceb8023/keinstein",
+        "tags": [
+            "Mathematik",
+            "Musiktheorie",
+            "MaMu",
+            "Musik"
+        ],
+        "intraHash": "b8420d6996fe31ade053168ffceb8023",
+        "interHash": "8aca0ad80027e93e4ac1e8f390439d38",
+        "label": "Generalized Musical Intervals and Transformations",
+        "user": "keinstein",
+        "description": "",
+        "date": "2010-09-14 11:15:54",
+        "changeDate": "2013-01-20 19:16:19",
+        "count": 3,
+        "pub-type": "book",
+        "publisher": "Oxford University Press",
+        "address": "New York",
+        "year": "2007",
+        "url": "http://www.ingentaconnect.com/content/oso/5481464/2007/00000001/00000001/art00000",
+        "author": [
+            "David Lewin"
+        ],
+        "authors": [
+            {
+                "first": "David",
+                "last": "Lewin"
+            }
+        ],
+        "pages": "i-258(259)",
+        "abstract": "This book is recognized as the seminal work paving the way for current studies in mathematical and systematic approaches to music analysis. The author, one of the 20th century's most prominent figures in music theory, pushes the boundaries of the study of pitch-structure beyond its conception as a static system for classifying and inter-relating chords and sets. Known by most music theorists as &#8220;GMIT&#8221;, the book is by far the most significant contribution to the field of systematic music theory in the last half-century, generating the framework for the &#8220;transformational theory&#8221; movement. Appearing almost twenty years after GMIT's initial publication, this Oxford University Press edition features a previously unpublished preface by the author, as well as a foreword by Edward Gollin contextualizing the work's significance for the current field of music theory.",
+        "date-added": "2011-04-01 19:08:14 +0200",
+        "timestamp": "2010-09-14 11:15:54",
+        "date-modified": "2011-04-01 19:15:26 +0200",
+        "username": "keinstein",
+        "intrahash": "b8420d6996fe31ade053168ffceb8023",
+        "bdsk-url-1": "http://www.netlibrary.com/urlapi.asp?action=summary&v=1&bookid=167846",
+        "bdsk-url-2": "http://www.oxfordscholarship.com/oso/public/content/music/9780195317138/toc.html",
+        "bdsk-url-3": "http://www.ingentaconnect.com/content/oso/5481464/2007/00000001/00000001/art00000",
+        "interhash": "8aca0ad80027e93e4ac1e8f390439d38",
+        "isbn": "9780199717842 0199717842",
+        "refid": "219722433",
+        "doi": "10.1093/acprof:oso/9780195317138.001.0001",
+        "groups": "public",
+        "bibtexKey": "davi2007generalized"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/2de14464025a43358df0c2321ff2eacb5/sapo",
+        "tags": [],
+        "intraHash": "de14464025a43358df0c2321ff2eacb5",
+        "interHash": "c8ac12d0a5c9177fe5f8c3440107b62f",
+        "label": "A Roadmap for Sound and Music Computing",
+        "user": "sapo",
+        "description": "",
+        "date": "2019-06-27 20:25:08",
+        "changeDate": "2019-06-27 20:25:08",
+        "count": 1,
+        "pub-type": "book",
+        "booktitle": "The S2S Consortium",
+        "publisher": "The S2S2 Consortium",
+        "year": "2007",
+        "url": "http://scholar.google.com/scholar?hl=en{\\&}btnG=Search{\\&}q=intitle:A+Roadmap+for+Sound+and+Music+Computing{\\#}0",
+        "author": [
+            "Xavier Serra",
+            "Marc Leman",
+            "Gerhard Widmer"
+        ],
+        "authors": [
+            {
+                "first": "Xavier",
+                "last": "Serra"
+            },
+            {
+                "first": "Marc",
+                "last": "Leman"
+            },
+            {
+                "first": "Gerhard",
+                "last": "Widmer"
+            }
+        ],
+        "editor": [
+            "Nicola Bernardini",
+            "Xavier Serra",
+            "Marc Leman",
+            "Gerhard Widmer"
+        ],
+        "editors": [
+            {
+                "first": "Nicola",
+                "last": "Bernardini"
+            },
+            {
+                "first": "Xavier",
+                "last": "Serra"
+            },
+            {
+                "first": "Marc",
+                "last": "Leman"
+            },
+            {
+                "first": "Gerhard",
+                "last": "Widmer"
+            }
+        ],
+        "pages": "1--167",
+        "abstract": "Music is an important aspect of all human cultures. Music is meant\n\tto give new experiences, to give sense and meaning to life, to console\n\tand to promote social coherence and personal identity in and across\n\tvery diverse social and ethnic groups. Rooted in the biology of every\n\thuman being, music is a core occupation of our technological society.\n\tBy 2020, music will have become a commodity as ubiquitous as water\n\tor electricity. Its content and the activities surrounding it will\n\tpromote new business ventures, which in turn will bolster the music\n\tand cultural/creative industries. Sound and Music Computing (SMC)\n\twill provide the core technologies for this ongoing revolution in\n\telectronic music culture. Its major research contribution to advances\n\tin the eld will be to bridge the semantic gap, the hiatus that currently\n\tseparates sound from sense. This contribution will stimulate fruitful\n\tinteraction between culture, science and industry.",
+        "bibtexKey": "serra2007roadmap"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/248dbcc51a282580c4e17497606d96229/yevb0",
+        "tags": [
+            "language,music,neuro"
+        ],
+        "intraHash": "48dbcc51a282580c4e17497606d96229",
+        "interHash": "6dd1119055aefe7b52725a04a8175170",
+        "label": "Language, music, and the brain",
+        "user": "yevb0",
+        "description": "",
+        "date": "2011-03-27 17:20:41",
+        "changeDate": "2011-03-27 17:21:03",
+        "count": 1,
+        "pub-type": "book",
+        "booktitle": "Language, music, and the brain",
+        "publisher": "Oxford University Press",
+        "address": "Oxford",
+        "year": "2008",
+        "url": "http://www.oup.com/us/patel",
+        "author": [
+            "Aniruddh D. Patel"
+        ],
+        "authors": [
+            {
+                "first": "Aniruddh D.",
+                "last": "Patel"
+            }
+        ],
+        "file": "Patel_2008_Language, music, and the brain.zip:Patel_2008_Language, music, and the brain.zip:ZIP",
+        "mendeley-tags": "language,music,neuro",
+        "bibtexKey": "Patel2008"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/2c9dc230c67bd4119e98a078d150ab994/kochm",
+        "tags": [
+            "science",
+            "primes",
+            "mathematics",
+            "ownprivate"
+        ],
+        "intraHash": "c9dc230c67bd4119e98a078d150ab994",
+        "interHash": "c0964595e125b490497ec79c0e1e130a",
+        "label": "Music of the Primes: Why an Unsolved Problem in Mathematics Matters",
+        "user": "kochm",
+        "description": "Music of the Primes: Why an Unsolved Problem in Mathematics Matters: Marcus du Sautoy: Amazon.de: Englische B\u00fccher",
+        "date": "2008-12-24 10:17:34",
+        "changeDate": "2008-12-24 10:17:34",
+        "count": 1,
+        "pub-type": "book",
+        "publisher": "Harperperennial",
+        "year": "2004",
+        "url": "http://www.amazon.de/Music-Primes-Unsolved-Problem-Mathematics/dp/1841155802%3FSubscriptionId%3D13CT5CVB80YFWJEPWS02%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1841155802",
+        "author": [
+            "Marcus du Sautoy"
+        ],
+        "authors": [
+            {
+                "first": "Marcus",
+                "last": "du Sautoy"
+            }
+        ],
+        "ean": "9781841155807",
+        "asin": "1841155802",
+        "isbn": "1841155802",
+        "dewey": "600",
+        "bibtexKey": "1841155802"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/23de4adbbd9d8e65f6796bebde90719c1/algebradresden",
+        "tags": [
+            "slub",
+            "handbib",
+            "verschiedenes",
+            "regalmus",
+            "musiktheorie",
+            "schmidt"
+        ],
+        "intraHash": "3de4adbbd9d8e65f6796bebde90719c1",
+        "interHash": "35432bf368ca341495358e4c06ffede2",
+        "label": "The topos of music : geometric logic of concepts, theory, and performance",
+        "user": "algebradresden",
+        "description": "The Topos of Music",
+        "date": "2009-11-03 16:12:26",
+        "changeDate": "2012-09-13 15:55:28",
+        "count": 3,
+        "pub-type": "book",
+        "publisher": "Birkh\u00e4user",
+        "address": "Basel; Boston",
+        "year": "2002",
+        "url": "http://www.worldcat.org/search?qt=worldcat_org_all&q=9783764357313",
+        "author": [
+            "G. Mazzola",
+            "Stefan. G\u00f6ller",
+            "Stefan. M\u00fcller"
+        ],
+        "authors": [
+            {
+                "first": "G.",
+                "last": "Mazzola"
+            },
+            {
+                "first": "Stefan.",
+                "last": "G\u00f6ller"
+            },
+            {
+                "first": "Stefan.",
+                "last": "M\u00fcller"
+            }
+        ],
+        "abstract": "The Topos of Music is the upgraded and vastly deepened English extension of the seminal German Geometrie der Tone. It reflects the dramatic progress of mathematical music theory and its operationalization by information technology since the publication of Geometrie der Tone in 1990. The conceptual basis has been vastly generalized to topos-theoretic foundations, including a corresponding thoroughly geometric musical logic. The theoretical models and results now include topologies for rhythm, melody, and harmony, as well as a classification theory of musical objects that comprises the topos-theoretic concept framework. Classification also implies techniques of algebraic moduli theory. The classical models of modulation and counterpoint have been extended to exotic scales and counterpoint interval dichotomies. The probably most exciting new field of research deals with musical performance and its implementation on advanced object-oriented software environments. This subject not only uses extensively the existing mathematical music theory, it also opens the language to differential equations and tools of differential geometry, such as Lie derivatives. Mathematical performance theory is the key to inverse performance theory, an advanced new research field which deals with the calculation of varieties of parameters which give rise to a determined performance. This field uses techniques of algebraic geometry and statistics, approaches which have already produced significant results in the understanding of highest-ranked human performances. The book's formal language and models are currently being used by leading researchers in Europe and Northern America and have become a foundation of music software design. This is also testified by the book's nineteen collaborators and the included CD-ROM containing software and music examples.",
+        "timestamp": "2009-11-03T16:12:26.000+0100",
+        "username": "algebradresden",
+        "intrahash": "b0da2ee3c24883adcc6034626384a4e2",
+        "added-at": "2009-11-03T16:12:26.000+0100",
+        "interhash": "6116dd452574d253e28c5f660f3b1d41",
+        "biburl": "http://www.bibsonomy.org/bibtex/2b0da2ee3c24883adcc6034626384a4e2/algebradresden",
+        "groups": "public",
+        "bibtexKey": "mazzola:2002"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/2e07c6fcdfe14d8542a4152ab6c46bc8f/joaakive",
+        "tags": [
+            "music",
+            "technology"
+        ],
+        "intraHash": "e07c6fcdfe14d8542a4152ab6c46bc8f",
+        "interHash": "db243a3799e9d7c9b6bf5dbd395ddbcd",
+        "label": "An Introduction to Music Technology",
+        "user": "joaakive",
+        "description": "",
+        "date": "2014-04-27 09:28:27",
+        "changeDate": "2014-04-27 09:28:27",
+        "count": 1,
+        "pub-type": "book",
+        "journal": "Computer Music Journal",
+        "year": "2011",
+        "url": "http://dblp.uni-trier.de/db/journals/comj/comj35.html#Geers11",
+        "author": [
+            "Dan Hosken"
+        ],
+        "authors": [
+            {
+                "first": "Dan",
+                "last": "Hosken"
+            }
+        ],
+        "volume": "35",
+        "number": "4",
+        "pages": "99-101",
+        "ee": "http://dx.doi.org/10.1162/COMJ_r_00094",
+        "bibtexKey": "hosken2011introduction"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/2a0e06d4513b83fe281802571d0f0f723/wiljami74",
+        "tags": [
+            "information_theory",
+            "musical_meaning"
+        ],
+        "intraHash": "a0e06d4513b83fe281802571d0f0f723",
+        "interHash": "0b30b7aa2dea74daac4e920a9fecb655",
+        "label": "Music, the Arts, and Ideas: Patterns and Predictions in Twentieth-Century Culture",
+        "user": "wiljami74",
+        "description": "Meyer's Music, the Arts, and Ideas : Patterns and Predictions in Twentieth-Century Culture, information theory and meaning in music",
+        "date": "2007-08-15 09:16:23",
+        "changeDate": "2007-08-15 09:16:23",
+        "count": 1,
+        "pub-type": "book",
+        "publisher": "The University Of Chicago Press",
+        "address": "Chicago and London",
+        "year": "1967",
+        "url": "",
+        "author": [
+            "Leonard B. Meyer"
+        ],
+        "authors": [
+            {
+                "first": "Leonard B.",
+                "last": "Meyer"
+            }
+        ],
+        "bibtexKey": "Mey67"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/2e3bec615d5e50884343cbc5b59f28007/baltazhar",
+        "tags": [
+            "music",
+            "sociology",
+            "popular",
+            "musicology"
+        ],
+        "intraHash": "e3bec615d5e50884343cbc5b59f28007",
+        "interHash": "d59ff5d221b1119111873dfe3fb22338",
+        "label": "Analyzing popular music",
+        "user": "baltazhar",
+        "description": "",
+        "date": "2008-10-13 02:04:24",
+        "changeDate": "2008-10-13 02:04:24",
+        "count": 1,
+        "pub-type": "book",
+        "publisher": "Cambridge University Press",
+        "address": "The Edinburgh Building, Cambridge CB2 2RU, United Kingdom",
+        "year": "2003",
+        "url": "http://www.cambridge.org/catalogue/catalogue.asp?isbn=9780521771207",
+        "editor": [
+            "Allan F. Moore."
+        ],
+        "editors": [
+            {
+                "first": "Allan F.",
+                "last": "Moore."
+            }
+        ],
+        "note": "Allan F. Moore, Robert Walser, Dai Griffiths, Robynn J. Stilwell, Stan Hawkins, Rob Bowman, Adam Krims, Allan F. Moore, John Covach, Chris Kennett, Martin Stokes",
+        "abstract": "How do we know music? We perform it, we compose it, we sing it in the shower, we cook, sleep and dance to it. Eventually we think and write about it. This book represents the culmination of such shared processes. Each of these essays, written by leading writers on popular music, is analytical in some sense, but none of them treats analysis as an end in itself. The books presents a wide range of genres (rock, dance, TV soundtracks, country, pop, soul, easy listening, Turkish Arabesk) and deals with issues as broad as methodology, modernism, postmodernism, Marxism and communication. It aims to encourage listeners to think more seriously about the \u2018social\u2019 consequences of the music they spend time with and is the first collection of such essays to incorporate contextualisation in this way",
+        "bibtexKey": "MusTambMoore03"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/2bfae1c9869bfa8e0357bbb3748e74259/yevb0",
+        "tags": [
+            "imported"
+        ],
+        "intraHash": "bfae1c9869bfa8e0357bbb3748e74259",
+        "interHash": "f4d0fb801229198f3d9b32fac974a4a5",
+        "label": "The psychology of music",
+        "user": "yevb0",
+        "description": "",
+        "date": "2011-03-27 17:20:41",
+        "changeDate": "2011-03-27 17:21:15",
+        "count": 1,
+        "pub-type": "book",
+        "booktitle": "The psychology of music",
+        "publisher": "Academic Press",
+        "address": "New York",
+        "year": "1982",
+        "url": "",
+        "editor": [
+            "Diana Deutsch"
+        ],
+        "editors": [
+            {
+                "first": "Diana",
+                "last": "Deutsch"
+            }
+        ],
+        "file": "Unknown_1982_The psychology of music.pdf:Unknown_1982_The psychology of music.pdf:PDF",
+        "bibtexKey": "Deutsch1982"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/29c85aaa485e5af7a4ad7bb15594233de/yevb0",
+        "tags": [
+            "imported"
+        ],
+        "intraHash": "9c85aaa485e5af7a4ad7bb15594233de",
+        "interHash": "ac813ad043c6a3cec7b8a6346cd0ed5b",
+        "label": "Empirical musicology: Aims, methods, prospects",
+        "user": "yevb0",
+        "description": "",
+        "date": "2011-03-27 17:20:41",
+        "changeDate": "2011-03-27 17:21:15",
+        "count": 1,
+        "pub-type": "book",
+        "booktitle": "Empirical musicology: Aims, methods, prospects",
+        "publisher": "Oxford University Press",
+        "address": "New York",
+        "year": "2004",
+        "url": "",
+        "editor": [
+            "Eric Clarke",
+            "Nicholas Cook"
+        ],
+        "editors": [
+            {
+                "first": "Eric",
+                "last": "Clarke"
+            },
+            {
+                "first": "Nicholas",
+                "last": "Cook"
+            }
+        ],
+        "file": ":Unknown_2004_Empirical musicology Aims, methods, prospects.pdf:PDF",
+        "bibtexKey": "Clarke2004"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/246280b12ba0abdb6935da393787c01ee/joaakive",
+        "tags": [
+            "music",
+            "history",
+            "electronic"
+        ],
+        "intraHash": "46280b12ba0abdb6935da393787c01ee",
+        "interHash": "3651b633ffcaf04533a0112880c554cf",
+        "label": "Electronic and Experimental Music",
+        "user": "joaakive",
+        "description": "",
+        "date": "2014-04-27 09:35:20",
+        "changeDate": "2014-07-01 09:49:54",
+        "count": 1,
+        "pub-type": "book",
+        "publisher": "Routledge",
+        "year": "1985",
+        "url": "",
+        "author": [
+            "Thom Holmes"
+        ],
+        "authors": [
+            {
+                "first": "Thom",
+                "last": "Holmes"
+            }
+        ],
+        "abstract": "Technology, music and culture",
+        "bibtexKey": "holmes2002electronic"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/2d17522343b278e826db4f71052a66053/keinstein",
+        "tags": [
+            "Mathematik",
+            "Geometrie",
+            "Musiktheorie",
+            "Musik"
+        ],
+        "intraHash": "d17522343b278e826db4f71052a66053",
+        "interHash": "35432bf368ca341495358e4c06ffede2",
+        "label": "The Topos of Music: geometric logic of concepts, theory, and performance",
+        "user": "keinstein",
+        "description": "",
+        "date": "2012-09-20 17:57:47",
+        "changeDate": "2013-01-20 19:14:41",
+        "count": 3,
+        "pub-type": "book",
+        "booktitle": "The Topos of Music: geometric logic of concepts, theory, and performance",
+        "publisher": "Birkh\u00e4user",
+        "address": "Basel ; Boston",
+        "year": "2002",
+        "url": "http://www.loc.gov/catdir/enhancements/fy0812/2002033209-d.html",
+        "author": [
+            "Guerino Mazzola",
+            "Stefan G\u00f6ller",
+            "Stefan M\u00fcller"
+        ],
+        "authors": [
+            {
+                "first": "Guerino",
+                "last": "Mazzola"
+            },
+            {
+                "first": "Stefan",
+                "last": "G\u00f6ller"
+            },
+            {
+                "first": "Stefan",
+                "last": "M\u00fcller"
+            }
+        ],
+        "genre": "Music theory",
+        "date-added": "2008-06-09 14:26:33 +0200",
+        "library-id": "2002033209",
+        "alias": "mazzola02:_topos_music",
+        "verfuegbar": "SLUB: SK 990 M477 Freihand + 2002 4 010037 T2 Magazin NBM (CD-ROM)",
+        "call-number": "ML3800",
+        "date-modified": "2011-07-06 14:45:01 +0200",
+        "username": "keinstein",
+        "intrahash": "d17522343b278e826db4f71052a66053",
+        "bdsk-url-1": "http://www.loc.gov/catdir/enhancements/fy0812/2002033209-d.html",
+        "interhash": "35432bf368ca341495358e4c06ffede2",
+        "isbn": "3-7643-5731-2; 0-8176-5731-2 (alk. paper)",
+        "dewey-call-number": "781/.1",
+        "groups": "public",
+        "bibtexKey": "Mazzola:2002"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/2d17522343b278e826db4f71052a66053/ks-plugin-devel",
+        "tags": [
+            "Mathematik",
+            "Geometrie",
+            "Musiktheorie",
+            "Musik"
+        ],
+        "intraHash": "d17522343b278e826db4f71052a66053",
+        "interHash": "35432bf368ca341495358e4c06ffede2",
+        "label": "The Topos of Music: geometric logic of concepts, theory, and performance",
+        "user": "ks-plugin-devel",
+        "description": "",
+        "date": "2013-02-02 14:41:00",
+        "changeDate": "2013-02-02 14:41:00",
+        "count": 3,
+        "pub-type": "book",
+        "booktitle": "The Topos of Music: geometric logic of concepts, theory, and performance",
+        "publisher": "Birkh\u00e4user",
+        "address": "Basel ; Boston",
+        "year": "2002",
+        "url": "http://www.loc.gov/catdir/enhancements/fy0812/2002033209-d.html",
+        "author": [
+            "Guerino Mazzola",
+            "Stefan G\u00f6ller",
+            "Stefan M\u00fcller"
+        ],
+        "authors": [
+            {
+                "first": "Guerino",
+                "last": "Mazzola"
+            },
+            {
+                "first": "Stefan",
+                "last": "G\u00f6ller"
+            },
+            {
+                "first": "Stefan",
+                "last": "M\u00fcller"
+            }
+        ],
+        "genre": "Music theory",
+        "date-added": "2008-06-09 14:26:33 +0200",
+        "library-id": "2002033209",
+        "alias": "mazzola02:_topos_music",
+        "verfuegbar": "SLUB: SK 990 M477 Freihand + 2002 4 010037 T2 Magazin NBM (CD-ROM)",
+        "call-number": "ML3800",
+        "date-modified": "2011-07-06 14:45:01 +0200",
+        "username": "keinstein",
+        "intrahash": "d17522343b278e826db4f71052a66053",
+        "bdsk-url-1": "http://www.loc.gov/catdir/enhancements/fy0812/2002033209-d.html",
+        "interhash": "35432bf368ca341495358e4c06ffede2",
+        "isbn": "3-7643-5731-2; 0-8176-5731-2 (alk. paper)",
+        "dewey-call-number": "781/.1",
+        "groups": "public",
+        "bibtexKey": "Mazzola:2002"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/21f38658184f62d78341965aaa1bbf9f2/vaniave",
+        "tags": [
+            "music",
+            "STEAM",
+            "Mathematics",
+            "education",
+            "mathematical_modeling"
+        ],
+        "intraHash": "1f38658184f62d78341965aaa1bbf9f2",
+        "interHash": "b87fb9fc5999ae987c38246e1bf15e37",
+        "label": "Matematica, Musica e Educacao",
+        "user": "vaniave",
+        "description": "",
+        "date": "2021-04-21 11:45:34",
+        "changeDate": "2021-09-02 17:45:45",
+        "count": 1,
+        "pub-type": "book",
+        "journal": "LCMAT-UENF",
+        "publisher": "UENF",
+        "year": "2004",
+        "url": "http://doi.org/10.13140/2.1.2849.5360",
+        "author": [
+            "Vania V. Estrela",
+            "Vania Vieira Estrela",
+            "Mikhail VISHNEVSKI",
+            "Talmise Franco Dos Santos"
+        ],
+        "authors": [
+            {
+                "first": "Vania V.",
+                "last": "Estrela"
+            },
+            {
+                "first": "Vania Vieira",
+                "last": "Estrela"
+            },
+            {
+                "first": "Mikhail",
+                "last": "VISHNEVSKI"
+            },
+            {
+                "first": "Talmise Franco Dos",
+                "last": "Santos"
+            }
+        ],
+        "abstract": "Geralmente, ao comentar sobre m\u00fasica, dificilmente pensamos na possibilidade da interatividade das ci\u00eancias exatas como a f\u00edsica e a matem\u00e1tica, necess\u00e1rias para entender as propriedades e os detalhes que ocorrem na m\u00fasica.(...) A liga\u00e7\u00e3o da m\u00fasica com a ci\u00eancia teve grande import\u00e2ncia no per\u00edodo cl\u00e1ssicono s\u00e9c.VI a.C. por Pit\u00e1goras, onde houve a descoberta das raz\u00f5es matem\u00e1ticas por tr\u00e1sdos sons depois de observado o comprimento dos martelos dos ferreiros.A autoria de Pit\u00e1goras em sua obra \u00e9 dado a descoberta do intervalo de umaoitava como sendo referente a uma rela\u00e7\u00e3o de freq\u00fc\u00eancia (altura: grave e agudo). Osseguidores de Pit\u00e1goras aplicaram essas raz\u00f5es ao comprimento de um instrumento chamado monoc\u00f3rdio. Pit\u00e1goras buscava rela\u00e7\u00f5es de comprimentos/raz\u00f5es de n\u00fameros inteiros que produzissem determinados intervalos sonoros e, portanto, foram capazes de determinar matematicamente a entona\u00e7\u00e3o (bom tom) de todo sistema musical. (...)A m\u00fasica tornou-se uma extens\u00e3o da matem\u00e1tica, bem como a arte. A matem\u00e1tica e as descobertas musicais de Pit\u00e1goras foram, desta forma, de grande influ\u00eancia no desenvolvimento da m\u00fasica atrav\u00e9s da idade m\u00e9dia na Europa. Essa monografia despertar\u00e1 o interesse de muitos leitores para a obten\u00e7\u00e3o deum melhor conhecimento e enriquecimento na aprendizagem, quando raramentepensamos na an\u00e1lise cient\u00edfica com a arte musical.Conhecer essas influ\u00eancias matem\u00e1ticas \u00e9, antes de tudo, conhecer a ess\u00eancia da pr\u00f3pria m\u00fasica.",
+        "language": "Portuguese",
+        "doi": "10.13140/2.1.2849.5360",
+        "bibtexKey": "Vania_V._Estrela_47553731"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/2bfd8dca126a40ca8ea2f2ad3e0589225/ichun",
+        "tags": [
+            "music",
+            "computer"
+        ],
+        "intraHash": "bfd8dca126a40ca8ea2f2ad3e0589225",
+        "interHash": "8690682a19b42248377ab0de0827ad29",
+        "label": "Experiments in musical intelligence",
+        "user": "ichun",
+        "description": "",
+        "date": "2007-01-13 16:45:41",
+        "changeDate": "2007-01-13 16:45:41",
+        "count": 3,
+        "pub-type": "book",
+        "publisher": "A-R Editions, Inc.",
+        "year": "1996",
+        "url": "",
+        "author": [
+            "David Cope"
+        ],
+        "authors": [
+            {
+                "first": "David",
+                "last": "Cope"
+            }
+        ],
+        "bibtexKey": "cope:96a"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/275ae7ab288c5badf12a58284e3487784/hanappe",
+        "tags": [
+            "imported"
+        ],
+        "intraHash": "75ae7ab288c5badf12a58284e3487784",
+        "interHash": "4975ecc038dfa83e20ef6bafe05941e9",
+        "label": "Composing Music with Computers",
+        "user": "hanappe",
+        "description": "",
+        "date": "2006-07-13 17:11:36",
+        "changeDate": "2006-07-13 17:11:36",
+        "count": 1,
+        "pub-type": "book",
+        "series": "Music Technology Series",
+        "publisher": "Focal Press",
+        "year": "2001",
+        "url": "",
+        "author": [
+            "E. R. Miranda"
+        ],
+        "authors": [
+            {
+                "first": "E. R.",
+                "last": "Miranda"
+            }
+        ],
+        "note": "Book",
+        "bibtexKey": "miranda:01d"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/2abae0a38f92b267c4f1c60f7050801fc/jwbowers",
+        "tags": [
+            "hiphop,",
+            "lfm"
+        ],
+        "intraHash": "abae0a38f92b267c4f1c60f7050801fc",
+        "interHash": "b57d6c8a054408622b45f4e3f363a8ca",
+        "label": "Microphone Fiends: Youth Music and Youth Culture",
+        "user": "jwbowers",
+        "description": "",
+        "date": "2009-10-28 04:42:52",
+        "changeDate": "2009-10-28 04:43:01",
+        "count": 1,
+        "pub-type": "book",
+        "publisher": "Routledge",
+        "year": "1994",
+        "url": "http://www.amazon.ca/exec/obidos/redirect?tag=citeulike09-20\\&amp;path=ASIN/0415909082",
+        "author": [
+            "Tricia Rose"
+        ],
+        "authors": [
+            {
+                "first": "Tricia",
+                "last": "Rose"
+            }
+        ],
+        "abstract": "Youth music is the most creative and contested location on the cultural landscape.  It is a vehicle for generational moods and aspirations, a public refuge for fantasies outlawed in daily life, a testing ground for technical ingenuity, an enormously profitable commercial channel for mainstream narratives of thought and behavior, and one of the corporate state's main theatres for national moral panic.  Today's sounds, and the debates about their various forms, are inseparable from the social conditions of the last two decades:  class polarization, racial marginalization, and economic violence enacted to a degree that has left youth, as a whole, with drastically reduced opportunities in life.  Youth culture is still responding to these uneven developments with a passion that has been romanticized by some critics as a significant form of resistance, and denigrated by others as an avoidance of direct and political protest.<br><br><b></b><b><i>Microphone Fiends</i></b><b></b>, a collection of original essays and interviews, brings together some of the best known scholars, critics, journalists and performers to focus on the contemporary scene.  It includes theoretical discussions of musical history along with social commentaries about genres like disco, metal and rap music, and case histories of specific movements like the Riot Grrls, funk clubbing in Rio de Janeiro, and the British rave scene.  The contents of the volume engage with the broad tradition of cultural studies and sociology of youth music and culture, but they are also designed to address audiences reached by mainstream music journalism and fans of any musical taste.",
+        "date-added": "2008-11-25 13:57:54 -0500",
+        "posted-at": "2008-01-07 19:33:18",
+        "citeulike-article-id": "2204713",
+        "date-modified": "2008-11-25 13:57:54 -0500",
+        "bdsk-url-1": "http://www.amazon.ca/exec/obidos/redirect?tag=citeulike09-20%5C&amp;path=ASIN/0415909082",
+        "priority": "2",
+        "isbn": "0415909082",
+        "bibtexKey": "Rose1994Microphone"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/26c9399f9319794142c183a617ea3be54/keinstein",
+        "tags": [
+            "Zentralblatt_Math",
+            "Musiktheorie",
+            "Musik"
+        ],
+        "intraHash": "6c9399f9319794142c183a617ea3be54",
+        "interHash": "2d92087528fa58fc0ac35c707c856509",
+        "label": "Music: a mathematical offering.",
+        "user": "keinstein",
+        "description": "",
+        "date": "2009-10-23 11:46:41",
+        "changeDate": "2013-01-20 19:17:07",
+        "count": 2,
+        "pub-type": "book",
+        "publisher": "Cambridge University Press",
+        "address": "Cambridge",
+        "year": "2007",
+        "url": "",
+        "author": [
+            "Dave Benson"
+        ],
+        "authors": [
+            {
+                "first": "Dave",
+                "last": "Benson"
+            }
+        ],
+        "pages": "xiii, 411",
+        "timestamp": "2009-10-23 11:46:41",
+        "date-added": "2009-10-24 19:55:20 +0200",
+        "username": "keinstein",
+        "date-modified": "2009-10-24 19:55:20 +0200",
+        "intrahash": "6c9399f9319794142c183a617ea3be54",
+        "bdsk-url-1": "http://www.zentralblatt-math.org/zmath/en/search/?format=complete&amp;q=an:1119.00008",
+        "file": ":Benson/1119.00008 - Music\\: a mathematical offering..pdf:PDF",
+        "interhash": "2d92087528fa58fc0ac35c707c856509",
+        "groups": "public",
+        "bibtexKey": "1119.00008"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/24f336f11e6bd1cee644ac7cb8681d4d1/keinstein",
+        "tags": [
+            "Software",
+            "Musik"
+        ],
+        "intraHash": "4f336f11e6bd1cee644ac7cb8681d4d1",
+        "interHash": "f6887f3ce46247125c614407dcd45565",
+        "label": "Algorithms and data structures for a music notation system based on GUIDO music notation",
+        "user": "keinstein",
+        "description": "",
+        "date": "2012-09-21 10:45:03",
+        "changeDate": "2013-01-22 17:36:54",
+        "count": 5,
+        "pub-type": "book",
+        "year": "2002",
+        "url": "http://elib.tu-darmstadt.de/diss/000265/kair\u0332enzd\u0332iss.pdf",
+        "author": [
+            "Kai Renz"
+        ],
+        "authors": [
+            {
+                "first": "Kai",
+                "last": "Renz"
+            }
+        ],
+        "genre": "Notenschrift",
+        "date-added": "2007-12-06 17:52:01 +0100",
+        "username": "keinstein",
+        "date-modified": "2009-10-24 19:38:59 +0200",
+        "intrahash": "4f336f11e6bd1cee644ac7cb8681d4d1",
+        "bdsk-url-1": "http://elib.tu-darmstadt.de/diss/000265/kair%CC%B2enzd%CC%B2iss.pdf",
+        "interhash": "f6887f3ce46247125c614407dcd45565",
+        "rawdata": "LDR 01332nmm 2200397 i 4500 001 377787485 003 GBV 008 040129s2002 gw 000 eng d 015 $aDDB967375975 040 $aGBV$bger 245 00 $aAlgorithms and data structures for a music notation system based on GUIDO music notation /$hcomputer file.$cvorgelegt von Kai Renz 260 $c2002. 300 $aOnline-Ressource. 502 $aTechn. Univ., Diss--Darmstadt, 2002. 650 $aNotenschrift$xComputerunterst\u00fctztes Verfahren$vOnline-Publikation 700 1 $aRenz, Kai 801 0 $aDE$bGyFmDB$gRAK-WB 856 7 $uhttp://elib.tu-darmstadt.de/diss/000265/kair\u0332enzd\u0332iss.pdf 856 7 $uhttp://elib.tu-darmstadt.de/diss/000265 856 7 $uhttp://deposit.ddb.de/cgi-bin/dokserv?idn=967375975 900 $aGBV$bUB Braunschweig <84> 900 $aGBV$bSUB Bremen <46> 900 $aGBV$bSUB+Uni Hamburg <18> 900 $aGBV$bTUB Hamburg <830> 900 $aGBV$bUB Clausthal <104> 900 $aGBV$bSUB Goettingen <7> 900 $aGBV$bHSU Hamburg <705> 900 $aGBV$bUB Lueneburg <Luen 4> 990 $a65327663X$z01 990 $a65970143X$z01 990 $a65337772X$z01 990 $a737811528$z01 990 $a719885930$z01 990 $a653473834$z01 990 $a653572670$z01 990 $a719990920$z01 $",
+        "groups": "public",
+        "bibtexKey": "Renz:2002"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/2eca0a7435bc0d10f3d63d245ec00e81f/keinstein",
+        "tags": [
+            "Musik"
+        ],
+        "intraHash": "eca0a7435bc0d10f3d63d245ec00e81f",
+        "interHash": "6ca9e59beed3222c7f1e5e7f941f02b0",
+        "label": "Inferring score level musical information from low-level musical data",
+        "user": "keinstein",
+        "description": "",
+        "date": "2012-09-20 18:23:09",
+        "changeDate": "2013-01-22 21:38:40",
+        "count": 2,
+        "pub-type": "book",
+        "year": "2005",
+        "url": "http://deposit.ddb.de/cgi-bin/dokserv?idn=974040584",
+        "author": [
+            "J\u00fcrgen Kilian"
+        ],
+        "authors": [
+            {
+                "first": "J\u00fcrgen",
+                "last": "Kilian"
+            }
+        ],
+        "genre": "Tonsignal",
+        "date-added": "2007-12-06 17:51:21 +0100",
+        "username": "keinstein",
+        "date-modified": "2009-01-29 16:06:34 +0100",
+        "intrahash": "eca0a7435bc0d10f3d63d245ec00e81f",
+        "bdsk-url-1": "http://deposit.ddb.de/cgi-bin/dokserv?idn=974040584",
+        "file": ":Kilian/diss-jfk-final.pdf:PDF",
+        "interhash": "6ca9e59beed3222c7f1e5e7f941f02b0",
+        "rawdata": "LDR 01232nmm 2200385 i 4500 001 488089026 003 GBV 008 050602s2005 gw 000 eng d 015 $aDDB974040584 040 $aGBV$bger 245 00 $aInferring score level musical information from low-level musical data /$hcomputer file.$cvorgelegt von J\u00fcrgen Kilian 260 $c2005. 300 $aOnline-Ressource. 500 $aDateien im PDF-Format.$5GBV 502 $aTechn. Univ., Diss--Darmstadt, 2004. 650 $aTonsignal$xNotensatz$xMustervergleich$vOnline-Publikation 700 1 $aKilian, J\u00fcrgen 801 0 $aDE$bGyFmDB$gRAK-WB 856 4 $uhttp://deposit.ddb.de/cgi-bin/dokserv?idn=974040584 900 $aGBV$bUB Braunschweig <84> 900 $aGBV$bSUB Bremen <46> 900 $aGBV$bSUB+Uni Hamburg <18> 900 $aGBV$bTUB Hamburg <830> 900 $aGBV$bUB Clausthal <104> 900 $aGBV$bSUB Goettingen <7> 900 $aGBV$bHSU Hamburg <705> 900 $aGBV$bUB Lueneburg <Luen 4> 990 $a722714742$z01 990 $a722747470$z01 990 $a722722869$z01 990 $a737856211$z01 990 $a722762879$z01 990 $a722731051$z01 990 $a722739168$z01 990 $a722755481$z01",
+        "groups": "public",
+        "bibtexKey": "Kilian:2005"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/240cfaf8bd9781e8417e3b38077262854/knaevelboerrar",
+        "tags": [
+            "music",
+            "composition"
+        ],
+        "intraHash": "40cfaf8bd9781e8417e3b38077262854",
+        "interHash": "68053db8ac7bae1cd5c49cfe435c9167",
+        "label": "Jazz und Pop Harmonielehre. Inkl. CD. Viele bekannte Beispiele aus verschiedenen Stilrichtungen.",
+        "user": "knaevelboerrar",
+        "description": "",
+        "date": "2013-03-27 14:39:04",
+        "changeDate": "2013-03-28 08:10:23",
+        "count": 2,
+        "pub-type": "book",
+        "publisher": "Logistikzentrum",
+        "year": "1999",
+        "url": "http://www.amazon.com/exec/obidos/redirect?tag=citeulike07-20\\&path=ASIN/3802403495",
+        "author": [
+            "Axel Kemper-Moll"
+        ],
+        "authors": [
+            {
+                "first": "Axel",
+                "last": "Kemper-Moll"
+            }
+        ],
+        "citeulike-linkout-9": "http://www.librarything.com/isbn/3802403495",
+        "posted-at": "2011-01-30 01:33:03",
+        "citeulike-linkout-5": "http://www.amazon.com/exec/obidos/redirect?tag=citeulike07-20&path=ASIN/3802403495",
+        "citeulike-linkout-6": "http://www.worldcat.org/isbn/3802403495",
+        "citeulike-linkout-7": "http://books.google.com/books?vid=ISBN3802403495",
+        "citeulike-article-id": "8707110",
+        "citeulike-linkout-8": "http://www.amazon.com/gp/search?keywords=3802403495&index=books&linkCode=qs",
+        "citeulike-linkout-1": "http://www.amazon.de/exec/obidos/redirect?tag=citeulike01-21&amp;path=ASIN/3802403495",
+        "citeulike-linkout-2": "http://www.amazon.fr/exec/obidos/redirect?tag=citeulike06-21&amp;path=ASIN/3802403495",
+        "citeulike-linkout-3": "http://www.amazon.jp/exec/obidos/ASIN/3802403495",
+        "citeulike-linkout-4": "http://www.amazon.co.uk/exec/obidos/ASIN/3802403495/citeulike00-21",
+        "priority": "2",
+        "isbn": "3802403495",
+        "citeulike-linkout-0": "http://www.amazon.ca/exec/obidos/redirect?tag=citeulike09-20&amp;path=ASIN/3802403495",
+        "bibtexKey": "citeulike:8707110"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/26964a37554af3bd48bad1819e105dea7/ks-plugin-devel",
+        "tags": [
+            "Willezitat"
+        ],
+        "intraHash": "6964a37554af3bd48bad1819e105dea7",
+        "interHash": "5f570f8de282e670efec73c75c2b8290",
+        "label": "De musica libri VI",
+        "user": "ks-plugin-devel",
+        "description": "",
+        "date": "2013-02-02 14:42:27",
+        "changeDate": "2013-02-02 14:42:27",
+        "count": 2,
+        "pub-type": "book",
+        "booktitle": "De musica libri VI",
+        "series": "Sammlung musikwissenschaftlicher Abhandlungen",
+        "publisher": "Heitz",
+        "year": "1937",
+        "url": "http://www.hs-augsburg.de/~harsch/aug_mu00.html",
+        "author": [
+            "Aurelius Augustinus",
+            "Carl Johann (\u00dcbers.) Perl"
+        ],
+        "authors": [
+            {
+                "first": "Aurelius",
+                "last": "Augustinus"
+            },
+            {
+                "first": "Carl Johann (\u00dcbers.)",
+                "last": "Perl"
+            }
+        ],
+        "volume": "Teil 23",
+        "bdsk-file-7": "YnBsaXN0MDDUAQIDBAUGCQpYJHZlcnNpb25UJHRvcFkkYXJjaGl2ZXJYJG9iamVjdHMSAAGGoNEHCFRyb290gAFfEA9OU0tleWVkQXJjaGl2ZXKoCwwXGBkdJCVVJG51bGzTDQ4PEBEUViRjbGFzc1dOUy5rZXlzWk5TLm9iamVjdHOAB6ISE4ACgAOiFRaABIAGWWFsaWFzRGF0YVxyZWxhdGl2ZVBhdGjSDRobHFdOUy5kYXRhgAVPEQHUAAAAAAHUAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADCWLRVSCsAAAGBzcsYRGUgbXVzaWNhIGxpYnJpIFZJMi5odG1sAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYHOEMi5U6MAAAAAAAAAAAABAAQAAAkgAAAAAAAAAAAAAAAAAAAACkF1Z3VzdGludXMAEAAIAADCWJg1AAAAEQAIAADIuTeDAAAAAQAUAYHNywAgFS8AB/PnAAfz2gAAcEIAAgBQTWFjaW50b3NoIEhEOlVzZXJzOnNjaGxlbW1lOkRvY3VtZW50czpQYXBlcnM6QXVndXN0aW51czpEZSBtdXNpY2EgbGlicmkgVkkyLmh0bWwADgAyABgARABlACAAbQB1AHMAaQBjAGEAIABsAGkAYgByAGkAIABWAEkAMgAuAGgAdABtAGwADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgBDVXNlcnMvc2NobGVtbWUvRG9jdW1lbnRzL1BhcGVycy9BdWd1c3RpbnVzL0RlIG11c2ljYSBsaWJyaSBWSTIuaHRtbAAAEwABLwAAFQACAA///wAA0h4fICFYJGNsYXNzZXNaJGNsYXNzbmFtZaMhIiNdTlNNdXRhYmxlRGF0YVZOU0RhdGFYTlNPYmplY3RfECpQYXBlcnMvQXVndXN0aW51cy9EZSBtdXNpY2EgbGlicmkgVkkyLmh0bWzSHh8mJ6InI1xOU0RpY3Rpb25hcnkACAARABoAHwApADIANwA6AD8AQQBTAFwAYgBpAHAAeACDAIUAiACKAIwAjwCRAJMAnQCqAK8AtwC5ApEClgKfAqoCrgK8AsMCzAL5Av4DAQAAAAAAAAIBAAAAAAAAACgAAAAAAAAAAAAAAAAAAAMO",
+        "bdsk-file-6": "YnBsaXN0MDDUAQIDBAUGCQpYJHZlcnNpb25UJHRvcFkkYXJjaGl2ZXJYJG9iamVjdHMSAAGGoNEHCFRyb290gAFfEA9OU0tleWVkQXJjaGl2ZXKoCwwXGBkdJCVVJG51bGzTDQ4PEBEUViRjbGFzc1dOUy5rZXlzWk5TLm9iamVjdHOAB6ISE4ACgAOiFRaABIAGWWFsaWFzRGF0YVxyZWxhdGl2ZVBhdGjSDRobHFdOUy5kYXRhgAVPEQHUAAAAAAHUAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADCWLRVSCsAAAGBzcsYRGUgbXVzaWNhIGxpYnJpIFZJMS5odG1sAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYHOBci5U50AAAAAAAAAAAABAAQAAAkgAAAAAAAAAAAAAAAAAAAACkF1Z3VzdGludXMAEAAIAADCWJg1AAAAEQAIAADIuTd9AAAAAQAUAYHNywAgFS8AB/PnAAfz2gAAcEIAAgBQTWFjaW50b3NoIEhEOlVzZXJzOnNjaGxlbW1lOkRvY3VtZW50czpQYXBlcnM6QXVndXN0aW51czpEZSBtdXNpY2EgbGlicmkgVkkxLmh0bWwADgAyABgARABlACAAbQB1AHMAaQBjAGEAIABsAGkAYgByAGkAIABWAEkAMQAuAGgAdABtAGwADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgBDVXNlcnMvc2NobGVtbWUvRG9jdW1lbnRzL1BhcGVycy9BdWd1c3RpbnVzL0RlIG11c2ljYSBsaWJyaSBWSTEuaHRtbAAAEwABLwAAFQACAA///wAA0h4fICFYJGNsYXNzZXNaJGNsYXNzbmFtZaMhIiNdTlNNdXRhYmxlRGF0YVZOU0RhdGFYTlNPYmplY3RfECpQYXBlcnMvQXVndXN0aW51cy9EZSBtdXNpY2EgbGlicmkgVkkxLmh0bWzSHh8mJ6InI1xOU0RpY3Rpb25hcnkACAARABoAHwApADIANwA6AD8AQQBTAFwAYgBpAHAAeACDAIUAiACKAIwAjwCRAJMAnQCqAK8AtwC5ApEClgKfAqoCrgK8AsMCzAL5Av4DAQAAAAAAAAIBAAAAAAAAACgAAAAAAAAAAAAAAAAAAAMO",
+        "date-added": "2010-09-17 17:15:41 +0200",
+        "verfuegbar": "465 Essen : E11 IWEI46 (Ausleihbestand); 6 M\u00fcnster : 00000001 48 5641 (ILL Ausleihe); 61 D\u00fcsseldorf : 00 KW5567:23 (Ausleihbar); Tr 2 Trier : M B 716 (ausleihbar/M)",
+        "bdsk-file-1": "YnBsaXN0MDDUAQIDBAUGCQpYJHZlcnNpb25UJHRvcFkkYXJjaGl2ZXJYJG9iamVjdHMSAAGGoNEHCFRyb290gAFfEA9OU0tleWVkQXJjaGl2ZXKoCwwXGBkdJCVVJG51bGzTDQ4PEBEUViRjbGFzc1dOUy5rZXlzWk5TLm9iamVjdHOAB6ISE4ACgAOiFRaABIAGWWFsaWFzRGF0YVxyZWxhdGl2ZVBhdGjSDRobHFdOUy5kYXRhgAVPEQGoAAAAAAGoAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADCWLRVSCsAAAGBzcsNYXVnX211MDAuaHRtbAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYHNx8i5Uz4AAAAAAAAAAAABAAQAAAkgAAAAAAAAAAAAAAAAAAAACkF1Z3VzdGludXMAEAAIAADCWJg1AAAAEQAIAADIuTceAAAAAQAUAYHNywAgFS8AB/PnAAfz2gAAcEIAAgBFTWFjaW50b3NoIEhEOlVzZXJzOnNjaGxlbW1lOkRvY3VtZW50czpQYXBlcnM6QXVndXN0aW51czphdWdfbXUwMC5odG1sAAAOABwADQBhAHUAZwBfAG0AdQAwADAALgBoAHQAbQBsAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIAOFVzZXJzL3NjaGxlbW1lL0RvY3VtZW50cy9QYXBlcnMvQXVndXN0aW51cy9hdWdfbXUwMC5odG1sABMAAS8AABUAAgAP//8AANIeHyAhWCRjbGFzc2VzWiRjbGFzc25hbWWjISIjXU5TTXV0YWJsZURhdGFWTlNEYXRhWE5TT2JqZWN0XxAfUGFwZXJzL0F1Z3VzdGludXMvYXVnX211MDAuaHRtbNIeHyYnoicjXE5TRGljdGlvbmFyeQAIABEAGgAfACkAMgA3ADoAPwBBAFMAXABiAGkAcAB4AIMAhQCIAIoAjACPAJEAkwCdAKoArwC3ALkCZQJqAnMCfgKCApAClwKgAsICxwLKAAAAAAAAAgEAAAAAAAAAKAAAAAAAAAAAAAAAAAAAAtc=",
+        "bdsk-file-3": "YnBsaXN0MDDUAQIDBAUGCQpYJHZlcnNpb25UJHRvcFkkYXJjaGl2ZXJYJG9iamVjdHMSAAGGoNEHCFRyb290gAFfEA9OU0tleWVkQXJjaGl2ZXKoCwwXGBkdJCVVJG51bGzTDQ4PEBEUViRjbGFzc1dOUy5rZXlzWk5TLm9iamVjdHOAB6ISE4ACgAOiFRaABIAGWWFsaWFzRGF0YVxyZWxhdGl2ZVBhdGjSDRobHFdOUy5kYXRhgAVPEQG4AAAAAAG4AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADCWLRVSCsAAAGBzcsRQVVHREVNMl9URVhULmh0bWwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYHN48i5U4kAAAAAAAAAAAABAAQAAAkgAAAAAAAAAAAAAAAAAAAACkF1Z3VzdGludXMAEAAIAADCWJg1AAAAEQAIAADIuTdpAAAAAQAUAYHNywAgFS8AB/PnAAfz2gAAcEIAAgBJTWFjaW50b3NoIEhEOlVzZXJzOnNjaGxlbW1lOkRvY3VtZW50czpQYXBlcnM6QXVndXN0aW51czpBVUdERU0yX1RFWFQuaHRtbAAADgAkABEAQQBVAEcARABFAE0AMgBfAFQARQBYAFQALgBoAHQAbQBsAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIAPFVzZXJzL3NjaGxlbW1lL0RvY3VtZW50cy9QYXBlcnMvQXVndXN0aW51cy9BVUdERU0yX1RFWFQuaHRtbAATAAEvAAAVAAIAD///AADSHh8gIVgkY2xhc3Nlc1okY2xhc3NuYW1loyEiI11OU011dGFibGVEYXRhVk5TRGF0YVhOU09iamVjdF8QI1BhcGVycy9BdWd1c3RpbnVzL0FVR0RFTTJfVEVYVC5odG1s0h4fJieiJyNcTlNEaWN0aW9uYXJ5AAgAEQAaAB8AKQAyADcAOgA/AEEAUwBcAGIAaQBwAHgAgwCFAIgAigCMAI8AkQCTAJ0AqgCvALcAuQJ1AnoCgwKOApICoAKnArAC1gLbAt4AAAAAAAACAQAAAAAAAAAoAAAAAAAAAAAAAAAAAAAC6w==",
+        "bdsk-file-2": "YnBsaXN0MDDUAQIDBAUGCQpYJHZlcnNpb25UJHRvcFkkYXJjaGl2ZXJYJG9iamVjdHMSAAGGoNEHCFRyb290gAFfEA9OU0tleWVkQXJjaGl2ZXKoCwwXGBkdJCVVJG51bGzTDQ4PEBEUViRjbGFzc1dOUy5rZXlzWk5TLm9iamVjdHOAB6ISE4ACgAOiFRaABIAGWWFsaWFzRGF0YVxyZWxhdGl2ZVBhdGjSDRobHFdOUy5kYXRhgAVPEQG4AAAAAAG4AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADCWLRVSCsAAAGBzcsRQVVHREVNMV9URVhULmh0bWwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYHN2Mi5U4MAAAAAAAAAAAABAAQAAAkgAAAAAAAAAAAAAAAAAAAACkF1Z3VzdGludXMAEAAIAADCWJg1AAAAEQAIAADIuTdjAAAAAQAUAYHNywAgFS8AB/PnAAfz2gAAcEIAAgBJTWFjaW50b3NoIEhEOlVzZXJzOnNjaGxlbW1lOkRvY3VtZW50czpQYXBlcnM6QXVndXN0aW51czpBVUdERU0xX1RFWFQuaHRtbAAADgAkABEAQQBVAEcARABFAE0AMQBfAFQARQBYAFQALgBoAHQAbQBsAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIAPFVzZXJzL3NjaGxlbW1lL0RvY3VtZW50cy9QYXBlcnMvQXVndXN0aW51cy9BVUdERU0xX1RFWFQuaHRtbAATAAEvAAAVAAIAD///AADSHh8gIVgkY2xhc3Nlc1okY2xhc3NuYW1loyEiI11OU011dGFibGVEYXRhVk5TRGF0YVhOU09iamVjdF8QI1BhcGVycy9BdWd1c3RpbnVzL0FVR0RFTTFfVEVYVC5odG1s0h4fJieiJyNcTlNEaWN0aW9uYXJ5AAgAEQAaAB8AKQAyADcAOgA/AEEAUwBcAGIAaQBwAHgAgwCFAIgAigCMAI8AkQCTAJ0AqgCvALcAuQJ1AnoCgwKOApICoAKnArAC1gLbAt4AAAAAAAACAQAAAAAAAAAoAAAAAAAAAAAAAAAAAAAC6w==",
+        "bdsk-file-5": "YnBsaXN0MDDUAQIDBAUGCQpYJHZlcnNpb25UJHRvcFkkYXJjaGl2ZXJYJG9iamVjdHMSAAGGoNEHCFRyb290gAFfEA9OU0tleWVkQXJjaGl2ZXKoCwwXGBkdJCVVJG51bGzTDQ4PEBEUViRjbGFzc1dOUy5rZXlzWk5TLm9iamVjdHOAB6ISE4ACgAOiFRaABIAGWWFsaWFzRGF0YVxyZWxhdGl2ZVBhdGjSDRobHFdOUy5kYXRhgAVPEQHUAAAAAAHUAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADCWLRVSCsAAAGBzcsYRGUgbXVzaWNhIGxpYnJpIFZJMC5odG1sAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYHN+si5U5cAAAAAAAAAAAABAAQAAAkgAAAAAAAAAAAAAAAAAAAACkF1Z3VzdGludXMAEAAIAADCWJg1AAAAEQAIAADIuTd3AAAAAQAUAYHNywAgFS8AB/PnAAfz2gAAcEIAAgBQTWFjaW50b3NoIEhEOlVzZXJzOnNjaGxlbW1lOkRvY3VtZW50czpQYXBlcnM6QXVndXN0aW51czpEZSBtdXNpY2EgbGlicmkgVkkwLmh0bWwADgAyABgARABlACAAbQB1AHMAaQBjAGEAIABsAGkAYgByAGkAIABWAEkAMAAuAGgAdABtAGwADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgBDVXNlcnMvc2NobGVtbWUvRG9jdW1lbnRzL1BhcGVycy9BdWd1c3RpbnVzL0RlIG11c2ljYSBsaWJyaSBWSTAuaHRtbAAAEwABLwAAFQACAA///wAA0h4fICFYJGNsYXNzZXNaJGNsYXNzbmFtZaMhIiNdTlNNdXRhYmxlRGF0YVZOU0RhdGFYTlNPYmplY3RfECpQYXBlcnMvQXVndXN0aW51cy9EZSBtdXNpY2EgbGlicmkgVkkwLmh0bWzSHh8mJ6InI1xOU0RpY3Rpb25hcnkACAARABoAHwApADIANwA6AD8AQQBTAFwAYgBpAHAAeACDAIUAiACKAIwAjwCRAJMAnQCqAK8AtwC5ApEClgKfAqoCrgK8AsMCzAL5Av4DAQAAAAAAAAIBAAAAAAAAACgAAAAAAAAAAAAAAAAAAAMO",
+        "bdsk-file-4": "YnBsaXN0MDDUAQIDBAUGCQpYJHZlcnNpb25UJHRvcFkkYXJjaGl2ZXJYJG9iamVjdHMSAAGGoNEHCFRyb290gAFfEA9OU0tleWVkQXJjaGl2ZXKoCwwXGBkdJCVVJG51bGzTDQ4PEBEUViRjbGFzc1dOUy5rZXlzWk5TLm9iamVjdHOAB6ISE4ACgAOiFRaABIAGWWFsaWFzRGF0YVxyZWxhdGl2ZVBhdGjSDRobHFdOUy5kYXRhgAVPEQHQAAAAAAHQAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADCWLRVSCsAAAGBzcsXRGUgbXVzaWNhIGxpYnJpIFZJLmh0bWwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYHN7si5U5AAAAAAAAAAAAABAAQAAAkgAAAAAAAAAAAAAAAAAAAACkF1Z3VzdGludXMAEAAIAADCWJg1AAAAEQAIAADIuTdwAAAAAQAUAYHNywAgFS8AB/PnAAfz2gAAcEIAAgBPTWFjaW50b3NoIEhEOlVzZXJzOnNjaGxlbW1lOkRvY3VtZW50czpQYXBlcnM6QXVndXN0aW51czpEZSBtdXNpY2EgbGlicmkgVkkuaHRtbAAADgAwABcARABlACAAbQB1AHMAaQBjAGEAIABsAGkAYgByAGkAIABWAEkALgBoAHQAbQBsAA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIAQlVzZXJzL3NjaGxlbW1lL0RvY3VtZW50cy9QYXBlcnMvQXVndXN0aW51cy9EZSBtdXNpY2EgbGlicmkgVkkuaHRtbAATAAEvAAAVAAIAD///AADSHh8gIVgkY2xhc3Nlc1okY2xhc3NuYW1loyEiI11OU011dGFibGVEYXRhVk5TRGF0YVhOU09iamVjdF8QKVBhcGVycy9BdWd1c3RpbnVzL0RlIG11c2ljYSBsaWJyaSBWSS5odG1s0h4fJieiJyNcTlNEaWN0aW9uYXJ5AAgAEQAaAB8AKQAyADcAOgA/AEEAUwBcAGIAaQBwAHgAgwCFAIgAigCMAI8AkQCTAJ0AqgCvALcAuQKNApICmwKmAqoCuAK/AsgC9AL5AvwAAAAAAAACAQAAAAAAAAAoAAAAAAAAAAAAAAAAAAADCQ==",
+        "timestamp": "2012-02-16 05:12:12",
+        "username": "keinstein",
+        "date-modified": "2010-09-17 17:41:05 +0200",
+        "intrahash": "6964a37554af3bd48bad1819e105dea7",
+        "interhash": "5f570f8de282e670efec73c75c2b8290",
+        "groups": "public",
+        "bibtexKey": "Augustinus:1937"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/218b2b58fef63bd36fef874e0908a91f2/tb2332",
+        "tags": [
+            "music",
+            "describe,"
+        ],
+        "intraHash": "18b2b58fef63bd36fef874e0908a91f2",
+        "interHash": "62b306ab038403ef68822b08623cf0ab",
+        "label": "The Rhythmic Structure of Music",
+        "user": "tb2332",
+        "description": "",
+        "date": "2010-02-27 01:05:18",
+        "changeDate": "2010-02-27 01:05:20",
+        "count": 1,
+        "pub-type": "book",
+        "publisher": "The Univ. of Chicago Press",
+        "address": "Chicago",
+        "year": "1960",
+        "url": "",
+        "author": [
+            "Grosvenor Cooper",
+            "Leonard B. Meyer"
+        ],
+        "authors": [
+            {
+                "first": "Grosvenor",
+                "last": "Cooper"
+            },
+            {
+                "first": "Leonard B.",
+                "last": "Meyer"
+            }
+        ],
+        "timestamp": "2009.04.18",
+        "owner": "thierry",
+        "origin": "Kielian-Gilbert",
+        "own": "IU Library",
+        "bibtexKey": "Cooper1960"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/21f1a293b03c150caf38e396a47f23b9c/bliek",
+        "tags": [
+            "imported"
+        ],
+        "intraHash": "1f1a293b03c150caf38e396a47f23b9c",
+        "interHash": "9363c6bf69f8442e31938e06d5eb8690",
+        "label": "Martin Scorsese presents the blues : a musical journey",
+        "user": "bliek",
+        "description": "",
+        "date": "2010-01-27 22:12:50",
+        "changeDate": "2010-01-27 22:13:00",
+        "count": 1,
+        "pub-type": "book",
+        "publisher": "Amistad",
+        "address": "New York",
+        "year": "2003",
+        "url": "",
+        "author": [
+            "Peter Guralnick",
+            "Martin Scorsese"
+        ],
+        "authors": [
+            {
+                "first": "Peter",
+                "last": "Guralnick"
+            },
+            {
+                "first": "Martin",
+                "last": "Scorsese"
+            }
+        ],
+        "pages": "287",
+        "note": "Portion of title: Blues; General note: \u00c4 companion book to the PBS documentary series Martin Scorsese presents the blues: a musical journey\"\u2015Colophon.; Bibliography note: Includes bibliographical references (p. 283-287).; Uniform title: Martin Scorsese presents the blues (Television program)",
+        "isbn": "0060525444 (alk. paper)",
+        "bibtexKey": "guralnick_martin_2003"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/23c529ec9de661e0805a40949af05c8c4/bliek",
+        "tags": [
+            "Biography,",
+            "Musicology"
+        ],
+        "intraHash": "3c529ec9de661e0805a40949af05c8c4",
+        "interHash": "659d0c1fe8a8d0c60fdb59a0b943047f",
+        "label": "Witnesses and Scholars: Studies in Musical Biography",
+        "user": "bliek",
+        "description": "",
+        "date": "2010-01-27 22:12:50",
+        "changeDate": "2010-01-27 22:13:00",
+        "count": 1,
+        "pub-type": "book",
+        "publisher": "Gordon and Breach",
+        "address": "New York",
+        "year": "1988",
+        "url": "",
+        "author": [
+            "Hans Lenneberg"
+        ],
+        "authors": [
+            {
+                "first": "Hans",
+                "last": "Lenneberg"
+            }
+        ],
+        "pages": "223",
+        "isbn": "2881242103",
+        "shorttitle": "Witnesses and Scholars",
+        "lccn": "ML3797 .L46 1988",
+        "bibtexKey": "lenneberg_witnesses_1988"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/2d3a111d5888bf35f6dbbcf6fbeadb2f1/bliek",
+        "tags": [
+            "imported"
+        ],
+        "intraHash": "d3a111d5888bf35f6dbbcf6fbeadb2f1",
+        "interHash": "5a51a0e3d84ee9ac86c77381fc218770",
+        "label": "Rebel Musics: Human Rights, Resistant Sounds, and the Politics of Making",
+        "user": "bliek",
+        "description": "",
+        "date": "2010-01-27 22:12:50",
+        "changeDate": "2010-01-27 22:12:58",
+        "count": 1,
+        "pub-type": "book",
+        "publisher": "Black Rose Books",
+        "address": "Montr\u00e2eal",
+        "year": "2003",
+        "url": "",
+        "author": [
+            "Ajay Heble",
+            "Daniel Fischlin"
+        ],
+        "authors": [
+            {
+                "first": "Ajay",
+                "last": "Heble"
+            },
+            {
+                "first": "Daniel",
+                "last": "Fischlin"
+            }
+        ],
+        "pages": "254",
+        "isbn": "1551642301",
+        "shorttitle": "Rebel Musics",
+        "lccn": "306.4/842\\textbar222",
+        "bibtexKey": "heble_rebel_2003"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/2d1693ebf164e220edc6e39e466a81e87/bliek",
+        "tags": [
+            "personal",
+            "copy"
+        ],
+        "intraHash": "d1693ebf164e220edc6e39e466a81e87",
+        "interHash": "4712446f7ddbef3c41fba4f353fbd646",
+        "label": "Pop Music and the Blues: A Study of the Relationship and Its Siginificance",
+        "user": "bliek",
+        "description": "",
+        "date": "2010-01-27 22:12:50",
+        "changeDate": "2010-01-27 22:12:59",
+        "count": 1,
+        "pub-type": "book",
+        "publisher": "Gollancz",
+        "address": "London",
+        "year": "1972",
+        "url": "",
+        "author": [
+            "Richard Middleton"
+        ],
+        "authors": [
+            {
+                "first": "Richard",
+                "last": "Middleton"
+            }
+        ],
+        "pages": "271",
+        "isbn": "0575014423",
+        "shorttitle": "Pop Music and the Blues",
+        "lccn": "ML3545 .M48",
+        "bibtexKey": "middleton_pop_1972-1"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/2e06a31128f40f5ef06f299577f6504ab/bliek",
+        "tags": [
+            "Social",
+            "20th",
+            "aspects",
+            "century,"
+        ],
+        "intraHash": "e06a31128f40f5ef06f299577f6504ab",
+        "interHash": "67239fdc5bde77212feb2d5ae462db0b",
+        "label": "Western Music and Its Others: Difference, Representation, and Riation in Music",
+        "user": "bliek",
+        "description": "",
+        "date": "2010-01-27 22:12:50",
+        "changeDate": "2010-01-27 22:12:57",
+        "count": 1,
+        "pub-type": "book",
+        "publisher": "University of California Press",
+        "address": "Berkeley",
+        "year": "2000",
+        "url": "",
+        "author": [
+            "Georgina Born",
+            "David Hesmondhalgh"
+        ],
+        "authors": [
+            {
+                "first": "Georgina",
+                "last": "Born"
+            },
+            {
+                "first": "David",
+                "last": "Hesmondhalgh"
+            }
+        ],
+        "pages": "360",
+        "isbn": "0520220838",
+        "shorttitle": "Western Music and Its Others",
+        "lccn": "ML3795 .W45 2000",
+        "bibtexKey": "born_western_2000"
+    },
+    {
+        "type": "Publication",
+        "id": "https://www.bibsonomy.org/bibtex/2e50a065bce4890f1c962758de95fb612/avs",
+        "tags": [
+            "Orpheus",
+            "Musik"
+        ],
+        "intraHash": "e50a065bce4890f1c962758de95fb612",
+        "interHash": "8b537ff157893ac341d70312fc02b7b0",
+        "label": "\u03a7\u03a1\u03a9\u039c\u0391 \u0398\u0395\u039f\u03a5. On the origins and theological interpretation of the musical imagery used by the ecclesiastical writers of the first three centuries, with special reference to the image of Orpheus",
+        "user": "avs",
+        "description": "",
+        "date": "2013-04-28 16:48:09",
+        "changeDate": "2013-04-28 16:48:11",
+        "count": 1,
+        "pub-type": "book",
+        "series": "Musicae sacrae melethmata",
+        "publisher": "Coppenrath",
+        "address": "Alt\u00f6tting",
+        "year": "1976",
+        "url": "",
+        "author": [
+            "Robert A. Skeris"
+        ],
+        "authors": [
+            {
+                "first": "Robert A.",
+                "last": "Skeris"
+            }
+        ],
+        "number": "1",
+        "file": "Skeris_1976_\u03a7\u03a1\u03a9\u039c\u0391 \u0398\u0395\u039f\u03a5.pdf:/Users/stockhausen/Sync/Bibliographie/storage/8G9G9GHC/Skeris_1976_\u03a7\u03a1\u03a9\u039c\u0391 \u0398\u0395\u039f\u03a5.pdf:application/pdf",
+        "bibtexKey": "skeris__1976"
+    }
+]
