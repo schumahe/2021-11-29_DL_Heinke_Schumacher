@@ -13,7 +13,7 @@
 - fl = returns only the listed fields
 - Facetten-Funktionalität(?)
 - * = fl(?)
-- wie funktioneren filter queries(?)
+- wie funktionieren filter queries(?)
 
 
 ##### 2. techproducts
@@ -32,7 +32,7 @@
 - df-Suche ok
 - wann wird year_s angewählt, wann date: music* 2006 = year_s, alles andere = date
 - sort score asc = ++
-- 
+
 
 ##### 4. Schaer: bibsonomy-covid-solr.json:
 
