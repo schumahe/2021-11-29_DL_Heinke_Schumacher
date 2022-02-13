@@ -1,6 +1,6 @@
-## Vergleich SOLR-Core-Indexierung techproducts - eigene Indexierung json/xml-Daten
+## Vergleich SOLR-Core-Indexierung techproducts/films - eigene Indexierung json/xml-Daten
 
-#####1. films.json & films.xml
+##### 1. films.json & films.xml
 
 - Ausgangspunkt: int AND txt-Suche: "crime 2003"
 - sort: score asc = ++
@@ -16,7 +16,7 @@
 - wie funktioneren filter queries(?)
 
 
-#####2. techproducts
+##### 2. techproducts
 
 - inStock-Suche funktioniert nicht. Doch! Was war falsch?
 - Anzeige Suchergebnisse: zwischendurch items als String angezeigt statt in Zeilen
@@ -26,7 +26,7 @@
 - Suche nach StiWo "apple" liefert nur 1 Treffer result, obwohl 2 vorh. sind, der andere nicht gefundene hat StiWo in Field "compName_s" (als str indexiert). Eine Suche auf das Feld compName_s beschränkt, liefert 0 Treffer. Warum?
 
 
-#####4. bibsonomy_to_solr.json:
+##### 3. bibsonomy_to_solr.json:
 
 - StiWo: music* 2008
 - df-Suche ok
@@ -34,7 +34,7 @@
 - sort score asc = ++
 - 
 
-####5. Schaer: bibsonomy-covid-solr.json:
+##### 4. Schaer: bibsonomy-covid-solr.json:
 
 - StiWo "long": Ranking = 1. am meisten treffer im item, 2. Auftreten in author or title-Feld
 - sort score desc = ++
@@ -43,7 +43,7 @@
 - StiWo "article 24": 2 reguläre Treffer in Feld "pubtype" und "volume_s", der Rest nur mit ZAhl irgendwo im Nirvana
 
 
-####6. Wünsche:
+##### 5. Wünsche:
 
 - Dynamic fields Einfluss auf Ranking?
 - hl, facet, spatial, spellcheck
