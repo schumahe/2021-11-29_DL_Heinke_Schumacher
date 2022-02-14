@@ -7,12 +7,11 @@
 - sort "initial_release_date asc" = ++
 - sort "directed_by": "can not sort on multivalued field: directed_by of type: text_general"
 - sort "id asc": sortiert nach erster Zahl, die im Feld gefunden wird
-- Phrase ohne "" Quién es el señor López = Filmtitel: findet den relevanten Eintrag, aber auch noch 4 andere Titel, die damit nichts zu tun haben, es liegt wahrscheinlich an der spanischen Textauswertung, alle Filme mit dem Artikel "el" wurden ausgeworfen
-- Phrase mit "" "Quién es el señor López": korrekt
+- Phrase ohne Anführungszeichen Quién es el señor López = Filmtitel: findet den relevanten Eintrag, aber auch noch 4 andere Titel, die damit nichts zu tun haben, es liegt wahrscheinlich an der spanischen Textauswertung, alle Filme mit dem Artikel "el" wurden ausgeworfen
+- Phrase mit Anführungszeichen "Quién es el señor López": korrekt
 - df-Suche ok
 - fl = returns only the listed fields
 - Facetten-Funktionalität(?)
-- * = fl(?)
 - wie funktioneren filter queries(?)
 
 
@@ -52,7 +51,6 @@
 - Menüpunkt "Documents"
 - Logging/Level (?)
 - Thread Dump
-
 - Problem korrupte json
 - Problem unterschiedliche key-Umbenennung
 - Wieviel Daten schafft das Testsystem
