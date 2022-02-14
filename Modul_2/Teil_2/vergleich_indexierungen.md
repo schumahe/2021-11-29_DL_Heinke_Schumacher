@@ -13,7 +13,7 @@
 - fl = returns only the listed fields
 - Facetten-Funktionalität(?)
 - * = fl(?)
-- wie funktionieren filter queries(?)
+- wie funktioneren filter queries(?)
 
 
 ##### 2. techproducts
@@ -26,15 +26,17 @@
 - Suche nach StiWo "apple" liefert nur 1 Treffer result, obwohl 2 vorh. sind, der andere nicht gefundene hat StiWo in Field "compName_s" (als str indexiert). Eine Suche auf das Feld compName_s beschränkt, liefert 0 Treffer. Warum?
 
 
-##### 3. bibsonomy_to_solr.json:
+##### 3. Schumacher, bibsonomy_to_solr.json:
 
 - StiWo: music* 2008
 - df-Suche ok
-- wann wird year_s angewählt, wann date: music* 2006 = year_s, alles andere = date
-- sort score asc = ++
+- wann wird field=year angewählt, wann field=date: music* 2014, scheint date, weil hocher score für Titel mit anderen years als 2014
+- StiWo: "2015 article", Jahr ordentlich in Feld "year" abgefragt, aber nach was wird hier gescored, wiederspricht aber vorigem Punkt
+- StiWo: "Africa", 2 Treffer, nach tag gescored
+- bei fehlerhafter Datei "year_s" durch "year" rückersetzt
+ 
 
-
-##### 4. Schaer: bibsonomy-covid-solr.json:
+##### 4. Schaer, bibsonomy-covid-solr.json:
 
 - StiWo "long": Ranking = 1. am meisten treffer im item, 2. Auftreten in author or title-Feld
 - sort score desc = ++
@@ -48,9 +50,12 @@
 - Dynamic fields Einfluss auf Ranking?
 - hl, facet, spatial, spellcheck
 - Menüpunkt "Documents"
+- Logging/Level (?)
+- Thread Dump
 
-
-
+- Problem korrupte json
+- Problem unterschiedliche key-Umbenennung
+- Wieviel Daten schafft das Testsystem
 
 
 
