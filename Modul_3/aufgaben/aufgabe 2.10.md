@@ -1,12 +1,12 @@
-## 2.10 Datenprojekte an der eigenen Arbeitsstelle
-
-
+## Aufgabe: 2.10 Datenprojekte an der eigenen Arbeitsstelle
+  
+  
 Freitag, 11. März 2022, 14:24
 
 Hallo zusammen,
 anbei meine Gedanken zum Thema Daten für meine beiden Arbeitsbereiche. Schöne Grüße & schönes Wochenende! Heinke
-
-
+  
+  
 ### Webarchivierung:
 
 Im Bereich der Webarchivierung generiert die SUB Hamburg selbst keine Daten, das Webarchiv Hamburg ist ein Teilausschnitt des gesamten Webarchivs der DNB Frankfurt, der Kooperationspartnerin für die SUB Hamburg im Bereich der Webarchivierung. Bei der DNB also entstehen die Daten. Die DNB bietet über ihr [DNBLab](https://www.dnb.de/dnblab) Datensets freier digitaler Objekte an, DataScience-Angebote für Wissenschaft und Forschung zum Download über offene Schnittstellen und Weiterverarbeitung und Auswertung mit Jupyter Notebook. Dazu gehören auch die archivierten Websites im Gesamtdatenset aller freien Netzpublikationen, leider sind das aus lizenzrechtlichen Gründen zur Zeit nur 103, die meisten davon jedoch aus Hamburger Provenienz ;-). Aus Zeitgründen habe ich es bislang nicht geschafft, diese Angebote zu testen, im Rahmen dieses Moduls wäre es eine sehr nützliche Ergänzung und Anwendung der Modulinhalte. Inwieweit und welche statistischen Verfahren die DNB selbst anwendet und wo die Schwerpunkte für Auswertung und Analyse ihrer eigenen Webarchivierungsdaten liegen, kann ich nicht sagen. Eine Anfrage zum Data Mining-Verhalten dort behalte ich im Hinterkopf. Wünschenswert wäre natürlich eine Auswertungsmöglichkeit des gesamten Webarchivs der DNB (was möglicherweise aus rechtlichen Gründen verhindert wird), das seit immerhin 2012 aufgebaut wird, etwa nach historischen Forschungsfragen. Ob die DNB maschinelles Lernen einsetzt, ist mir nicht bekannt.
