@@ -5,7 +5,7 @@ Freitag, 11. März 2022, 14:24
 
 Hallo zusammen,
 anbei meine Gedanken zum Thema Daten für meine beiden Arbeitsbereiche. Schöne Grüße & schönes Wochenende! Heinke
-<br/>  
+<br/><br/>   
   
 ### Webarchivierung:
 
