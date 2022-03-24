@@ -1,11 +1,11 @@
 ## Aufgabe: 2.10 Datenprojekte an der eigenen Arbeitsstelle
-<br/><br/>  
+<br/> 
 
 Freitag, 11. März 2022, 14:24
-<br/><br/>
+
 Hallo zusammen,
 anbei meine Gedanken zum Thema Daten für meine beiden Arbeitsbereiche. Schöne Grüße & schönes Wochenende! Heinke
-  
+<br/>  
   
 ### Webarchivierung:
 
