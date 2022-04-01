@@ -1,4 +1,4 @@
-![Logo TH Köln](/home/schumahe/2021-11-29_DL_Heinke_Schumacher/Bildschirmfoto von 2022-04-01 15-25-26.png)
+![Logo TH Köln](/home/schumahe/2021-11-29_DL_Heinke_Schumacher/Bildschirmfoto.png)
 
 Zentrum für Bibliotheks- und Informationswissenschaftliche Weiterbildung
 
