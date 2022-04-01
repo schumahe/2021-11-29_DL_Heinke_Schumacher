@@ -1,4 +1,4 @@
-![Logo TH Köln] (home/Bilder/Bildschirmfoto von 2022-04-01 15-25-26.png)
+![Logo TH Köln] (home/schumahe/Bilder/Bildschirmfoto von 2022-04-01 15-25-26.png)
 
 Zentrum für Bibliotheks- und Informationswissenschaftliche Weiterbildung
 
