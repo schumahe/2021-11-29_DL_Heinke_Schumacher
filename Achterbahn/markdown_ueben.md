@@ -5,7 +5,6 @@ ZBIW
 <br/>
 
 **Aufbau eines Discoverysystems (VuFind)**<br/>
-
 **für Personen-Normdaten der Hamburg-Bibliographie**<br/><br/>
 
 Heinke Schumacher<br/>
@@ -14,10 +13,10 @@ Staats-und Universitätsbibliothek Hamburg
 
 ## Inhalt
 <br/>
-1. Aufgabenstellung
-2. Datenzusammenführung
-3. Indexaufbau SOLR
-4. Konfigurieren Discoverysystem VuFind
+1. Aufgabenstellung<br/>
+2. Datenzusammenführung<br/>
+3. Indexaufbau SOLR<br/>
+4. Konfigurieren Discoverysystem VuFind<br/>
 5. Fazit
 
 
