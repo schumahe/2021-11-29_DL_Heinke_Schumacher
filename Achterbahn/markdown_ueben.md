@@ -5,7 +5,7 @@ ZBIW
 <br/><br/>
 
 ### Aufbau eines Discoverysystems (VuFind) für Personen-Normdaten der Hamburg-Bibliographie<br/>
-Heinke Schumacher,
+Heinke Schumacher,<br/>
 Staats-und Universitätsbibliothek Hamburg
 
 <br/><br/><br/>
