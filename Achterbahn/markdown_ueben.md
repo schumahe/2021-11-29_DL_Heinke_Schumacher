@@ -5,6 +5,7 @@ ZBIW
 <br/>
 
 **Aufbau eines Discoverysystems (VuFind)**
+
 **für Personen-Normdaten der Hamburg-Bibliographie**<br/>
 
 Heinke Schumacher<br/>
