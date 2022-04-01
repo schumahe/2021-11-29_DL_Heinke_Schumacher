@@ -1,15 +1,14 @@
-![Logo TH Köln](images/)
-
-Zentrum für Bibliotheks- und Informationswissenschaftliche Weiterbildung
+![Logo TH Köln](images/)<br/>
+ZBIW
 
 
 
 ## Zertifikatskurs Data Librarian 2021/22
 
-### Projektaufgabe:
+### 			Projektaufgabe:
 
-Aufbau eines Discoverysystems <br/>
-für Personen-Normdaten der Hamburg-Bibliographie 
+		Aufbau eines Discoverysystems <br/>
+	für Personen-Normdaten der Hamburg-Bibliographie 
 
 
 ***
