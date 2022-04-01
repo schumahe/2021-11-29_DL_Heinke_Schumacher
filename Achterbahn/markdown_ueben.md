@@ -3,17 +3,12 @@ ZBIW
 
 
 
-## Zertifikatskurs Data Librarian 2021/22
+## Zertifikatskurs Data Librarian 2021/22 - Projektaufgabe
 
-### 			Projektaufgabe:
-
-		Aufbau eines Discoverysystems <br/>
+		Aufbau eines Discoverysystems
 	für Personen-Normdaten der Hamburg-Bibliographie 
-
-
-***
-Heinke Schumacher<br/>
-Staats-und Universitätsbibliothek Hamburg
+		  Heinke Schumacher<br/>
+	   Staats-und Universitätsbibliothek Hamburg
 
 
 
