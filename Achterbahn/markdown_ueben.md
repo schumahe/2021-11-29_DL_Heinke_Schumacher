@@ -1,18 +1,17 @@
 ![Logo TH Köln](images/)<br/>
 ZBIW
-<br/><br/>
+<br/><br/><br/>
 # Zertifikatskurs Data Librarian 2021/22 - Projektaufgabe
 <br/>
 
 **Aufbau eines Discoverysystems (VuFind)**<br/>
-**für Personen-Normdaten der Hamburg-Bibliographie**<br/><br/>
+**für Personen-Normdaten der Hamburg-Bibliographie**
 
 Heinke Schumacher<br/>
 Staats-und Universitätsbibliothek Hamburg
 <br/><br/><br/>
 
 ## Inhalt
-<br/>
 1. Aufgabenstellung<br/>
 2. Datenzusammenführung<br/>
 3. Indexaufbau SOLR<br/>
