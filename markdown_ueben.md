@@ -1,8 +1,9 @@
-![Logo TH Köln] (Bilder/logo-zbiw.sg)
+![Logo TH Köln] (home/Bilder/logo-zbiw.svg)
+
 Zentrum für Bibliotheks- und Informationswissenschaftliche Weiterbildung
-<br/><br/><br/>
+
 ***
-<br/><br/><br/>
+
 ## Zertifikatskurs Data Librarian 2021/22
 
 ### Projektaufgabe:
@@ -37,7 +38,7 @@ Staats-und Universitätsbibliothek Hamburg
 
 
 
-
+<br/><br/><br/>
 
 
 
