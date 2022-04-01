@@ -4,7 +4,7 @@ ZBIW
 # Zertifikatskurs Data Librarian 2021/22 - Projektaufgabe
 <br/>
 
-**Aufbau eines Discoverysystems (VuFind)**
+**Aufbau eines Discoverysystems (VuFind)**<br/>
 **für Personen-Normdaten der Hamburg-Bibliographie**<br/>
 
 Heinke Schumacher<br/>
