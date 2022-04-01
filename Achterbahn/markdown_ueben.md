@@ -1,4 +1,4 @@
-![Logo TH Köln](images/logo-zbiw.svg)
+![Logo TH Köln](images/)
 
 Zentrum für Bibliotheks- und Informationswissenschaftliche Weiterbildung
 
@@ -8,11 +8,12 @@ Zentrum für Bibliotheks- und Informationswissenschaftliche Weiterbildung
 
 ### Projektaufgabe:
 
-Aufbau eines Discoverysystems für Personen-Normdaten der Hamburg-Bibliographie 
+Aufbau eines Discoverysystems <br/>
+für Personen-Normdaten der Hamburg-Bibliographie 
 
 
 ***
-Heinke Schumacher
+Heinke Schumacher<br/>
 Staats-und Universitätsbibliothek Hamburg
 
 
