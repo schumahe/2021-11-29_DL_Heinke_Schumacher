@@ -1,4 +1,4 @@
-![Logo TH Köln] (home/Bilder/logo-zbiw.svg)
+![Logo TH Köln] (home/Bilder/Bildschirmfoto von 2022-04-01 15-25-26.png)
 
 Zentrum für Bibliotheks- und Informationswissenschaftliche Weiterbildung
 
